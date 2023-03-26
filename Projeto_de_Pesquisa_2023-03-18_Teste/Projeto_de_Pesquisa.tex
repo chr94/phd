@@ -2,6 +2,8 @@
     \documentclass[twoside, 12pt]{book}
         \usepackage{Arvo}
         \usepackage[T1]{fontenc}
+        \usepackage{enumitem}
+        
     % Language setting
     % Replace `english' with e.g. `spanish' to change the document language
     \usepackage[portuguese]{babel}
@@ -28,11 +30,13 @@ morfologicamente adequadas ao Sítio}}
 \begin{document}
     \maketitle
     \setstretch{1.15}
+    \setcounter{secnumdepth}{1}
 
 \begin{abstract}
         \textbf{Abstract} \\
 Como projetar novas áreas urbanas morfologicamente adequadas ao sítio? Que é possível traçá-las, é fato: é possível observar isso seja nas cidades espontâneas como em algumas cidades pré-concebidas. Porém, em suas expansões, muitas dessas cidades apresentam novas áreas urbanas com características dessemelhantes e qualidade inferior ao traçado original. E o que se observa é que não há um caminho pelo qual se orientar no sentido de desenvolver novos traçados urbanos morfologicamente ade-quados ao sítio e congruentes em sua lógica interna. Logo, a questão não é saber ‘se é’ possível, mas ‘como’ desenvolvê-los.  Para responder a essa questão, na presente tese desenvolve-se um método de projeto baseado no conceito de ‘rendimento urbano’ – oriundo do desenvolvimento e adaptação de conceitos da escola italiana de morfologia urbana, e definido como a coerência intrínseca entre o traçado da forma urbana e o contexto natural, aferível por parâmetros como coerência, organicidade, hierarquização, limitação e continuidade de percursos. Essa pesquisa é desenvolvida por meio de \textit{Evidence Based Design}. E, para isso, traçados urbanos são projetados com base nos parâmetros do rendimento e nas características morfológicas de sítios escolhidos co-mo amostras, sendo comparados com traçados urbanos existentes e não-adaptados ao sítio em termos das qualidades advogadas aos traçados morfologicamente adequados. Disso, são deduzidos passos projetuais a serem seguidos metodicamente. E tais passos, dispostos à guisa de método, são validados por grupos focais de pesquisadores, estudantes e profissionais que seguem tais passos de modo a de verificar se tal método é aplicável nos diferentes contextos da realidade. Diante disso, tal tese é estruturada em quatro capítulos: a revisão do estado da arte acerca do tema principal e daquilo a ele correlacionado; a projetação, comparação e análise dos traçados; a proposta e os resultados dos grupos focais; e, por fim, o resultado esperado, colocado como quarto capítulo, é um manual com diretrizes e diagramas para a projetação de novas áreas urbanas. (312 palavras). \\
-\textbf{Keywords:} 
+\textbf{Keywords:}
+\textit{Urban Morphology; Urban Design; Urban Growth; New Urban Areas; Urban Sustainability.} 
 \end{abstract}
 
 \newpage
@@ -57,11 +61,11 @@ Como projetar novas áreas urbanas morfologicamente adequadas ao sítio? Que é 
     
     \subsection{Apresentação do tema}	
 
-        Como projetar novos traçados urbanos morfologicamente adequados ao sítio de maneira metódica? Em minha dissertação (COSTA, 2020), pude verificar que é possível projetar novos traçados urbanos adequados às características orográficas de um sítio, gerando, outrossim, parâmetros para a avaliação desses traçados. Porém, uma coisa sou eu projetar um traçado urbano dentro de um contexto acadêmico. Outra coisa são outros estudantes a efetuar a mesma tarefa sem o mesmo cabedal. Mais ainda, uma coisa é o \textit{Quartiere Quinto} em Gênova, de Gianfranco Caniggia (Figura 1); e outra coisa são os loteamentos que surgem à medida que nossas cidades se expandem atualmente. São duas \textit{formae mentis} distintas, dois modos de projetar diversos, dois \textit{modi faciendi} completamente diferentes. De uma parte, aqueles que partem da apreensão da realidade material antes do projeto;  de outra aqueles que têm uma concepção apriorística do que realizar, e que só fazem pequenos ajustes no esquema mental ao confrontá-lo com a realidade. Em ambas as situações, porém, e principalmente na primeira, a forma mentis é fruto de um saber construído de maneira complexa, quase que por tradição – ainda que aprendida na universidade – e pouco dela se tem sistematizado como método, e menos ainda de maneira automatizada. 
+        Como projetar novos traçados urbanos morfologicamente adequados ao sítio de maneira metódica? Em minha dissertação (COSTA, 2020), pude verificar que é possível projetar novos traçados urbanos adequados às características orográficas de um sítio, gerando, outrossim, parâmetros para a avaliação desses traçados. Porém, uma coisa sou eu projetar um traçado urbano dentro de um contexto acadêmico. Outra coisa são outros estudantes a efetuar a mesma tarefa sem o mesmo cabedal. Mais ainda, uma coisa é o \textit{Quartiere Quinto} em Gênova, de Gianfranco Caniggia (Figura 1); e outra coisa são os loteamentos que surgem à medida que nossas cidades se expandem atualmente. São duas \textit{formae mentis} distintas, dois modos de projetar diversos, dois \textit{modi faciendi} completamente diferentes. De uma parte, aqueles que partem da apreensão da realidade material antes do projeto;  de outra aqueles que têm uma concepção apriorística do que realizar, e que só fazem pequenos ajustes no esquema mental ao confrontá-lo com a realidade. Em ambas as situações, porém, e principalmente na primeira, a \textit{forma mentis} é fruto de um saber construído de maneira complexa, quase que por tradição – ainda que aprendida na universidade – e pouco dela se tem sistematizado como método, e menos ainda de maneira automatizada. 
 
          É verdade que na obra de Gianfranco Caniggia e Gian Luigi Maffei (2008) temos o \textit{vade mecum} da escola italiana de tipo-morfologia, no qual estão descritos conceitos e métodos de leitura de edificações, tecidos e organismos urbanos e territórios, afinal o nome da obra é \textit{“Lettura dell’edilizia di base”}. No entanto, projetar um traçado urbano ex novo requer olhar para essa obra pelo avesso, e, com base em tudo o que nela se pode aprender, projetar um novo traçado urbano – e só isso já ultrapassaria uma tese. O que se pretende aqui é algo mais modesto: desenvolver um método de projeto de traçados urbanos morfologicamente adequados ao sítio. A ideia é fornecer à comunidade acadêmica e profissional – envolvendo pesquisadores, professores, alunos, além de arquitetos, engenheiros, agrimensores e outros técnicos do setor público e privado – um manual de projeto de traçados urbanos. E, com isso, almeja-se ainda colaborar com o debate acerca da morfologia urbana – que passa transversalmente da arquite-tura ao planejamento territorial, passando pelo urbanismo e pela geografia, e desde condomínios fechados até favelas –, gerando uma alternativa ao \textit{modus faciendi} atual e franqueando o acesso ao arcabouço teórico-metodológico da escola italiana de tipo-morfologia.
 
-        A presente tese, portanto, nada mais é que a continuação da pesquisa iniciada no mestrado.  Na dissertação, desenvolvi o conceito de “rendimento urbano” (COSTA, 2020; COSTA E REGO, 2019), desdobramento do conceito de “rendimento” da escola italiana de morfologia urbana,   adaptando-o para a escala da cidade a partir de sua aplicação na escala edilícia (CANIGGIA E MAFFEI, 2008, pp. 52-53) e do território (CARLOTTI, 1995, pp. 17-19). De maneira geral, o rendimento é o “grau de coerência com o contexto” (MAFFEI, 2003, p. 82, tradução nossa). Assim, o rendimento edilício é o grau de coerência entre o tipo  de uma edificação e o tipo das edificações já existentes no conjunto no qual ela é inserida (CANIGGIA E MAFFEI, 2008, p. 52; CATALDI, 2003, p. 31). Enquanto isso, o rendimento territorial é a disposição de um território para a utilização do homem,  em atividades como deslocamento, habitação, produção agrícola e produção urbana – sendo medida pela geomorfologia e pela localização geográfica de uma determinada área  (CARLOTTI, 1995). 
+        A presente tese, portanto, nada mais é que a continuação da pesquisa iniciada no mestrado.  Na dissertação, desenvolvi o conceito de “rendimento urbano” (COSTA, 2020; COSTA E REGO, 2019), desdobramento do conceito de \textit{“rendimento”} da escola italiana de morfologia urbana,   adaptando-o para a escala da cidade a partir de sua aplicação na escala edilícia (CANIGGIA E MAFFEI, 2008, pp. 52-53) e do território (CARLOTTI, 1995, pp. 17-19). De maneira geral, o \textit{rendimento} é o “grau de coerência com o contexto” (MAFFEI, 2003, p. 82, tradução nossa). Assim, o rendimento edilício é o grau de coerência entre o tipo  de uma edificação e o tipo das edificações já existentes no conjunto no qual ela é inserida (CANIGGIA E MAFFEI, 2008, p. 52; CATALDI, 2003, p. 31). Enquanto isso, o rendimento territorial é a disposição de um território para a utilização do homem,  em atividades como deslocamento, habitação, produção agrícola e produção urbana – sendo medida pela geomorfologia e pela localização geográfica de uma determinada área  (CARLOTTI, 1995). 
 
         Adaptado para a escala da cidade, o rendimento urbano foi definido como a “coerência intrínseca entre o traçado da forma urbana e o contexto natural” (COSTA, 2020, p. 47). Essa noção indica que o traçado urbano deve ser consoante ao sítio, particularmente à sua topografia, e que isso deve se dar de tal maneira que esse traçado seja hierarquizado e unitário, com elementos e arranjos interdependentes. E, desenvolvida essa noção, cinco parâmetros foram desenvolvidos para avaliar traçados urbanos. São eles a “coerência”, a “organicidade”, a “hierarquização”, a “limitação” e a “continuidade de percursos” (COSTA, 2020, p. 83). Verificou-se ainda que tais parâmetros ser-vem não apenas à avaliação do rendimento de um traçado urbano, senão que serviam ainda à projetação de novas áreas urbanas, servindo como balizadores de projeto. 
 
@@ -95,7 +99,7 @@ Como projetar novas áreas urbanas morfologicamente adequadas ao sítio? Que é 
 
         A partir da dissertação de mestrado desenvolvida anteriormente (COSTA, 2020), podem-se deduzir duas hipóteses, uma subordinada à outra. E cada uma delas traz questões principais e questões derivadas. Essas, por sua vez, dão origem aos objetivos e motivação à escolha do objeto, como se verá mais adiante.
 
-        A primeira hipótese é a de que é possível projetar novos traçados urbanos morfologicamente adequados ao sítio. Corroboram com essa hipótese o próprio \textit{Quartiere Quinto} em Gênova, de Caniggia, já mencionado (CATALDI et al., 2014), o \textit{Piano per le Barene di San Giuliano} em Veneza, de Saverio Muratori (MARETTO, 2013; OLI-VEIRA, 2021), o próprio ‘Ante-projeto’ para Maringá, projetado por Jorge de Macedo Vieira – ainda que feito sobre outras bases teóricas (BONFATO, 2008; REGO, 2001, 2009; REGO et al. 2004); e ainda o próprio traçado que desenvolvi durante o mestrado (COSTA, 2020). 
+        A primeira hipótese é a de que é possível projetar novos traçados urbanos morfologicamente adequados ao sítio. Corroboram com essa hipótese o próprio \textit{Quartiere Quinto} em Gênova, de Caniggia, já mencionado (CATALDI et al., 2014), o \textit{Piano per le Barene di San Giuliano} em Veneza, de Saverio Muratori (MARETTO, 2013; OLIVEIRA, 2021), o próprio ‘Ante-projeto’ para Maringá, projetado por Jorge de Macedo Vieira – ainda que feito sobre outras bases teóricas (BONFATO, 2008; REGO, 2001, 2009; REGO et al. 2004); e ainda o próprio traçado que desenvolvi durante o mestrado (COSTA, 2020). 
 
         Partindo dessa primeira hipótese surge a seguinte questão: como projetar novos traçados urbanos morfologicamente adequados ao sítio por meio de um método? E, a partir disso, a seguinte questão derivada: esse método serve – ou deve servir – para todos os contextos (situações reais) ou apenas para algumas situações específicas? Por exemplo: 
             •	Servirá só para casos \textit{ex novo} (como no Plano Vieira e no traçado da dissertação)? 
@@ -126,19 +130,27 @@ Como projetar novas áreas urbanas morfologicamente adequadas ao sítio? Que é 
 
     \subsection{Justificativas}
 
+%%% Observação do Luiz 2023-03-25 21:40: "Essa observação é muito importante, vou colocar nas justificativas da tese: a saber, ninguém faz análise de PREDIÇÃO, de como vai ficar uma nova rua, mas só analisa o que já existe."
+
         Em relação ao objetivo geral, não há método de projeto urbano a partir do rendimento (da adequação ao sítio e todas as suas implicações); o que existe é um conjunto de saberes disperso em diversas obras sobre como efetuar a ‘leitura’ de um organismo urbano. Já em relação ao objetivo secundário, busca-se conferir substância ao método enquanto se verifica sua aplicabilidade, trazendo contribuições de úteis ao rendimento a partir de outras áreas.
 
         Já em relação ao objeto de análise, deve-se levar em conta que Maringá é uma cidade média (FONTE), o que pode servir de modelo para outras cidades que apresentam características semelhantes. Cidades médias são alternativas às grandes metrópoles (DAVERIO; JOSÉ AUGUSTO; O fenômeno do esvaziamento das metrópoles e a migração para cidades pequenas e de porte médio graças ao \textit{home office} e ao afloramento da tecnologia da informação; Cidades médias como polos de tecnologia e afins, além de outras áreas) e, ao seu redor, novas regiões metropolitanas se desenvolvem no território. Muitas dessas cidades tiveram ou um início planejado (como Maringá), ou, sobretudo, passaram (e passam) por tentativas de planejamento para sanar problemas  como ocorreu em Maringá em 1979 – com o plano de diretrizes viárias que, malgrado conseguindo estabelecer conexões em um traçado confuso (o das expansões), foi feito à revelia do relevo, por diversos fatores –, ou com a implementação de novas diretrizes viárias em 2011, inclusive sobre a zona rural, e sua atual revisão (em vigor desde 2020). 
 
         Outrossim, nessas cidades médias há forte pressão do setor imobiliário (FONTE), com a criação de novos loteamentos e condomínios fechados não adaptados ao sítio e com baixa qualidade, bem como uma expansão urbana sobre áreas rurais – o que ocorre também em cidades pequenas, carentes de um balizador para sua expansão, e mesmo nas grandes cidades, cujos bairros precisam se desenvolver de maneira coesa. Tais características que acomunam as cidades médias fazem com que Maringá possa servir como difusora do método aqui desenvolvido. Além disso, há a disponibilidade de mate-riais; e, com a revisão do plano diretor e das leis complementares – somada à minha experiência como estagiário da diretoria do Plano Diretor no IPPLAM, trabalhando diretamente na revisão do Plano –, há um alinhamento entre a pesquisa com a legislação e sua factibilidade, bem como possibilidade de aplicação por meio de um manual com diretrizes projetuais e legais, ensejando o debate no setor público e na academia.
 
-\section{Método}
+
+\section{Método: \textit{Design Science Research (DSR)}}
+
+
+\section{Método: \textit{Evidence-based Design}}
 
         Pretende-se desenvolver aqui uma pesquisa baseada em evidência, tradução do termo \textit{Evidence-based Design} (HAMILTON E WATKINS, 2009).  Essa é uma metodologia de análise científica “que se baseia na assumpção de que o ambiente construído pode produzir efeitos físicos e psicológicos significativos sobre seus usuários”, sendo uma “ferramenta essencial no apoio de projetistas em suas escolhas arquiteturais e tecno-lógicas” (ALFONSI et. al., 2014, pp. 1-2, tradução nossa)  – inicialmente utilizado no âmbito da saúde e medicina (Evidence-based medicine), individuando as característi-cas projetuais dos hospitais com o objetivo de melhorar o bem-estar dos pacientes e a qualidade geral do ambiente e dos serviços ali oferecidos.  A EBD pode ser definida ainda como o “processo para o uso judicioso e consciencioso da melhor evidência cor-rente de pesquisa e prática ao tomar decisões sobre o projeto de um determinado empreendimento” (DAVOUDIAN, 2019, p. XIII, tradução nossa).  Nela, segundo Alfonsi et. al.  (2014), utiliza-se o clássico framework sequencial:
-            a)	Formulação da hipótese;
-            b)	Experimentação;
-            c)	Análise e mensuração;
-            d)	Coleta de resultados.
+        \begin{enumerate}[label=\alph*)]
+            \item  Formulação da hipótese;
+            \item  Experimentação;
+            \item  Análise e mensuração;
+            \item  Coleta de resultados.
+        \end{enumerate}
 
         O objetivo de uma pesquisa focada em evidence-based design (a partir de agora de-nominada simplesmente como ‘EBD’), segundo Davoudian (2019, p. XIII) – que, curio-samente, trata de iluminação –, é “criar uma ponte entre pesquisa e prática projetual”, o que serve para aumentar o conhecimento existente de organizações, comunidades, projetistas, seus clientes (como pequenos donos de lotes rurais que desejam parcelar suas glebas em loteamentos urbanos) e usuários finais (como compradores de lotes urbanos e moradores dos novos loteamentos e bairros) com evidências disponíveis sobre os modos com os quais as pessoas interagem com os novos e complexos ambien-tes que ora ocupamos. Um método de projetação urbana baseado em evidência,  co-mo se espera produzir na presente tese, não será uma receita de bolo, com as medi-das exatas do que fazer para todos os casos, como se fora uma fórmula mágica da projetação urbana. Ao contrário, tal método, assim como o é a própria EBD é uma abordagem que serve “para assistir aos projetistas na tomada de decisões sobre solu-ções projetuais baseadas no conhecimento disponível sobre o impacto dessas soluções sobre as pessoas, custos e manutenção, além de outros fatores” (DAVOUDIAN, 2019, p. XIII, tradução nossa). 
 
@@ -146,10 +158,11 @@ Como projetar novas áreas urbanas morfologicamente adequadas ao sítio? Que é 
         Antes de continuar, porém, há que fazer um parêntesis aqui sobre o que é ‘evidência’, posto que o termo ‘evidence’ não corresponde ao que, em português, chamamos ‘evi-dência’. ‘Evidence’, em inglês, corresponde “[aos] fatos, sinais ou objetos que fazem você acreditar que algo é verdade” (TURNBULL, 2010, p. 522, tradução nossa) , defi-nição que se mostra como indício de algo, aquilo que corrobora para formar uma pro-va, a proof, para formar o que em português é a evidência, aquilo que é evidente, pa-tente, e não precisa de explicação (MORA, 2001b, p. 946).  Logo, evidence correspon-de a ‘indício’ – que é “aquilo que indica a existência de algo”, ou seja, “indicação, indi-cador, sinal” (INDÍCIO, 2023) –, e não a ‘evidência’ propriamente dita.
 
         Voltando, porém, à EBD em si, vemos que, além de se aproximar da definição lusófona de ‘evidência’, temos quatro categorias ou fontes de conhecimento (RYCROFT-MALONE et al., 2004, pp. 83-86),  a saber:
-            a)	Conhecimento derivado de evidência de pesquisa;
-            b)	Conhecimento oriundo da experiência profissional; 
-            c)	Conhecimento obtido dos clientes e usuários;
-            d)	Conhecimento advindo do contexto de projeto e do ambiente.
+        \begin{enumerate}[label=\alph*)]
+            \item Conhecimento derivado de evidência de pesquisa;
+            \item Conhecimento oriundo da experiência profissional; 
+            \item Conhecimento obtido dos clientes e usuários;
+            \item Conhecimento advindo do contexto de projeto e do ambiente.
 
         A importância da \textit{EBD} reside no fato de que “a informação sobre o impacto de solu-ções de projeto sobre os usuários e na manutenção podem influenciar o modo como o projeto se desenvolve” (DAVOUDIAN, 2019, p. XIV, tradução nossa), além disso cres-cem as discussões sobre como a EBD se alinha ou contradiz novos projetos, métodos e teorias de produção, com uma emergente conexão entre a EBD e o design paramétri-co, tema correlato à presente pesquisa.
 
@@ -164,25 +177,27 @@ Como projetar novas áreas urbanas morfologicamente adequadas ao sítio? Que é 
         A fase seguinte será a análise e mensuração da qualidade desses traçados frente aos traçados existentes nas mesmas áreas, indo de encontro à hipótese secundária e ao objetivo secundário de ‘dar substância’ ao método. Os parâmetros utilizados nessa análise e comparação serão aqueles dados na dissertação, além de outros que forem julgados úteis no decorrer da fundamentação teórica da presente tese. A última fase será a validação desse método de projeto (e análise) por meio de grupos focais que (1) devem, por meio do ato mesmo de projetar, provar que é possível fazer novos traça-dos urbanos morfologicamente adequados ao sítio por meio de um método – e que não sou apenas eu o único a fazê-lo –, e (2) demonstrar pontos falhos ou nos quais a aplicabilidade do método não é adequada. Por fim, os resultados serão estruturados como um manual de projeto, com diretrizes e sugestões de normas e legislações a serem aplicadas em diversos contextos.
 
         Assim, a tese será estruturada em quatro capítulos: (1) a revisão do estado da arte acerca do tema principal e daquilo a ele correlacionado; (2) a projetação, comparação e análise dos traçados; (3) a proposta e os resultados dos grupos focais; e, por fim, o resultado esperado, colocado como quarto capítulo, é um (4) manual com diretrizes e diagramas para a projetação de novas áreas urbanas, como se vê a seguir:
-            1.	Introdução;
-            2.	Capítulo 1: Fundamentação Teórica (teoria);
-                i.	Morfoadequabilidade e escola italiana de tipo-morfologia;
-                ii.	Cognitive Architeture (Thigmotaxis, etc.);
-                iii.	Space Syntax; 
-                iv.	Cidade como mercado laboral (Bertaud);
-                v.	Infraestruturas, transportes e construções;
-            3.	Capítulo 2: Traçado urbano e análises (proposição, análise e verificação);
-                i.	Processo de análise do terreno/território e projetação de um traçado urbano baseado no rendimento urbano (descrição);
-                ii.	Análises e comparações;
-                iii.	Sistematização do método (preliminar);
-            4.	Capítulo 3: Grupos focais (validação);
-            5.	Capítulo 4: Síntese das análises (prescritivo);
-                i.	Rendimento como método de projeto para novos traçados;
-                ii.	Rendimento e acessibilidade topológica: incentivar e coibir usos do solo;
-                iii.	Rendimento como instrumento para expansão urbana sustentável;
-                iv.	Impactos do rendimento;
-                v.	Manual;
-            6.	Conclusões.
+        \begin{enumerate}
+            \item	Introdução;
+            \item	Capítulo 1: Fundamentação Teórica (teoria);
+                \subitem i.	Morfoadequabilidade e escola italiana de tipo-morfologia;
+                \subitem ii.	Cognitive Architeture (Thigmotaxis, etc.);
+                \subitem iii.	Space Syntax; 
+                \subitem iv.	Cidade como mercado laboral (Bertaud);
+                \subitem v.	Infraestruturas, transportes e construções;
+            \item	Capítulo 2: Traçado urbano e análises (proposição, análise e verificação);
+                \subitem i.	Processo de análise do terreno/território e projetação de um traçado urbano baseado no rendimento urbano (descrição);
+                \subitem ii.	Análises e comparações;
+                \subitem iii.	Sistematização do método (preliminar);
+            \item Capítulo 3: Grupos focais (validação);
+            \item Capítulo 4: Síntese das análises (prescritivo);
+                \subitem i.	Rendimento como método de projeto para novos traçados;
+                \subitem ii.	Rendimento e acessibilidade topológica: incentivar e coibir usos do solo;
+                \subitem iii.	Rendimento como instrumento para expansão urbana sustentável;
+                \subitem iv.	Impactos do rendimento;
+                \subitem v.	Manual;
+            \item Conclusões.
+        \end{enumerate}
 
         [Delineamento presente na antiga versão]. Pretende-se desenvolver esta pesquisa se-guindo etapas determinadas. Em primeiro lugar, dever-se-á revisar a bibliografia ati-nente ao tema, passando pelos autores da escola italiana de morfologia urbana, de modo a aperfeiçoar o conceito de rendimento urbano. Em seguida, serão estudados autores que tratam de mecanismos de desenvolvimento e expansão da cidade – parti-cularmente na relação entre parcelamento rural e parcelamento urbano –, urbanida-de, climatologia urbana, infraestruturação e sistemas de transporte, de modo a identi-ficar ferramentas para avaliar a viabilidade e os possíveis impactos de traçados com rendimento.
 
@@ -215,8 +230,9 @@ Como projetar novas áreas urbanas morfologicamente adequadas ao sítio? Que é 
 
 \newpage
 
- To view tutorials, user guides, and further documentation, please visit our \href{https://www.overleaf.com/learn}{help library}, or head to our plans page to \href{https://www.overleaf.com/user/subscription/plans}{choose your plan}.
+%%%%% Informações do Template
 
+ To view tutorials, user guides, and further documentation, please visit our \href{https://www.overleaf.com/learn}{help library}, or head to our plans page to \href{https://www.overleaf.com/user/subscription/plans}{choose your plan}.
 
 \section{Some examples to get started}
 

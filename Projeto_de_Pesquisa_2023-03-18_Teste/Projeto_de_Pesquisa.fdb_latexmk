@@ -6,8 +6,8 @@
   (generated)
   "Projeto_de_Pesquisa.bbl"
   "Projeto_de_Pesquisa.blg"
-["pdflatex"] 1679685646 "/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" "Projeto_de_Pesquisa.pdf" "Projeto_de_Pesquisa" 1679685646
-  "/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" 1679685642 52845 a2503286d51465f31c51b89ae01b1016 ""
+["pdflatex"] 1679792173 "/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" "Projeto_de_Pesquisa.pdf" "Projeto_de_Pesquisa" 1679792173
+  "/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" 1679792170 54046 0f734da8e3815df58d562bc1d2a7d7be ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_fibvii.enc" 1608588644 2823 5be281d0369073692d2c974c46dfb356 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_jtfq37.enc" 1608588644 3129 c838dd10c17fd261343a7e8a2a5962be ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_od575u.enc" 1608588644 2827 c5d3938c45dbdc7735eb17353f64a73f ""
@@ -92,6 +92,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty" 1622581934 5157 f308c7c04889e16c588e78aa42599fae ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd" 1622581934 2443 6dd9a5deeddddfcceb01d1932590ebad ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty" 1622581934 2894 55431114fc0e491ecee275edafd6c881 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty" 1561238569 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fontaxes/fontaxes.sty" 1595539507 14310 41fdb35c51be792ddf00696848d0cfef ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
@@ -124,10 +125,10 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1678999146 2826444 aacb20afd21b9ce1cdfbe962996ce196 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "Images/frog.jpg" 0 -1 0 ""
-  "Projeto_de_Pesquisa.aux" 1679685646 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Projeto_de_Pesquisa.aux" 1679792173 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "Projeto_de_Pesquisa.bbl" 0 -1 0 "bibtex Projeto_de_Pesquisa"
   "Projeto_de_Pesquisa.out" 0 -1 0 "pdflatex"
-  "Projeto_de_Pesquisa.tex" 1679685642 52845 a2503286d51465f31c51b89ae01b1016 ""
+  "Projeto_de_Pesquisa.tex" 1679792170 54046 0f734da8e3815df58d562bc1d2a7d7be ""
   (generated)
   "Projeto_de_Pesquisa.aux"
   "Projeto_de_Pesquisa.log"

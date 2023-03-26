@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  24 MAR 2023 16:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  25 MAR 2023 21:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -59,14 +59,23 @@ File: T1Arvo-TLF.fd 2020/12/21 (autoinst) Font definitions for T1/Arvo-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 112.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks18
+\labelindent=\skip49
+\enit@outerparindent=\dimen139
+\enit@toks=\toks19
+\enit@inbox=\box50
+\enit@count@id=\count195
+\enitdp@description=\count196
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2022/02/26 3.73 The Babel package
-\babel@savecnt=\count195
-\U@D=\dimen139
+\babel@savecnt=\count197
+\U@D=\dimen140
 \l@unhyphenated=\language87
  (/usr/local/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count196
+\bbl@dirlevel=\count198
  (/usr/local/texlive/2022/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Making " an active character on input line 143.
@@ -77,70 +86,70 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count197
-\Gm@cntv=\count198
-\c@Gm@tempcnt=\count199
-\Gm@bindingoffset=\dimen140
-\Gm@wd@mp=\dimen141
-\Gm@odd@mp=\dimen142
-\Gm@even@mp=\dimen143
-\Gm@layoutwidth=\dimen144
-\Gm@layoutheight=\dimen145
-\Gm@layouthoffset=\dimen146
-\Gm@layoutvoffset=\dimen147
-\Gm@dimlist=\toks18
+\Gm@cnth=\count199
+\Gm@cntv=\count266
+\c@Gm@tempcnt=\count267
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks20
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
-\@mathmargin=\skip49
+\@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen148
+\@emptytoks=\toks21
+\ex@=\dimen149
 )) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen149
+\pmbraise@=\dimen150
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count266
+\inf@bad=\count268
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count267
-\leftroot@=\count268
+\uproot@=\count269
+\leftroot@=\count270
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count269
-\DOTSCASE@=\count270
+\classnum@=\count271
+\DOTSCASE@=\count272
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box50
-\strutbox@=\box51
-\big@size=\dimen150
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen151
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count271
-\c@MaxMatrixCols=\count272
+\macc@depth=\count273
+\c@MaxMatrixCols=\count274
 \dotsspace@=\muskip16
-\c@parentequation=\count273
-\dspbrk@lvl=\count274
-\tag@help=\toks20
-\row@=\count275
-\column@=\count276
-\maxfields@=\count277
-\andhelp@=\toks21
-\eqnshift@=\dimen151
-\alignsep@=\dimen152
-\tagshift@=\dimen153
-\tagwidth@=\dimen154
-\totwidth@=\dimen155
-\lineht@=\dimen156
-\@envbody=\toks22
-\multlinegap=\skip50
-\multlinetaggap=\skip51
-\mathdisplay@stack=\toks23
+\c@parentequation=\count275
+\dspbrk@lvl=\count276
+\tag@help=\toks22
+\row@=\count277
+\column@=\count278
+\maxfields@=\count279
+\andhelp@=\toks23
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
+\@envbody=\toks24
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -156,8 +165,8 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen157
-\Gin@req@width=\dimen158
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
  (/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -185,9 +194,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen159
-\Hy@linkcounter=\count278
-\Hy@pagecounter=\count279
+\@linkdim=\dimen160
+\Hy@linkcounter=\count280
+\Hy@pagecounter=\count281
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -197,7 +206,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count280
+\Hy@SavedSpaceFactor=\count282
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -211,21 +220,21 @@ Package hyperref Info: Plain pages OFF on input line 4152.
 Package hyperref Info: Backreferencing OFF on input line 4157.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4390.
-\c@Hy@tempcnt=\count281
+\c@Hy@tempcnt=\count283
  (/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4749.
-\XeTeXLinkMargin=\dimen160
+\XeTeXLinkMargin=\dimen161
  (/usr/local/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count282
-\Field@Width=\dimen161
-\Fld@charsize=\dimen162
+\Fld@menulength=\count284
+\Field@Width=\dimen162
+\Fld@charsize=\dimen163
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -239,9 +248,9 @@ LaTeX Info: Redefining \pageref on input line 6101.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count283
-\c@Item=\count284
-\c@Hfootnote=\count285
+\Hy@abspage=\count285
+\c@Item=\count286
+\c@Hfootnote=\count287
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -250,8 +259,8 @@ File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count286
-\c@bookmark@seq@number=\count287
+\Fld@listcount=\count288
+\c@bookmark@seq@number=\count289
  (/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
  (/usr/local/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -259,36 +268,36 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
-\Hy@SectionHShift=\skip52
+\Hy@SectionHShift=\skip53
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count288
-\l__pdf_internal_box=\box52
+\l__color_backend_stack_int=\count290
+\l__pdf_internal_box=\box53
 ) (./Projeto_de_Pesquisa.aux)
 \openout1 = `Projeto_de_Pesquisa.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-\c@mv@tabular=\count289
-\c@mv@boldtabular=\count290
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+\c@mv@tabular=\count291
+\c@mv@boldtabular=\count292
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -326,17 +335,17 @@ LaTeX Font Info:    ... okay on input line 28.
 
 (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count291
-\scratchdimen=\dimen163
-\scratchbox=\box53
-\nofMPsegments=\count292
-\nofMParguments=\count293
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count294
-\MPscratchDim=\dimen164
-\MPnumerator=\count295
-\makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count293
+\scratchdimen=\dimen164
+\scratchbox=\box54
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen165
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks27
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -349,7 +358,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
-Package hyperref Info: Link coloring ON on input line 28.
+Package hyperref Info: Link coloring ON on input line 30.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -357,85 +366,85 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count297
+\c@section@level=\count299
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 \@outlinefile=\write3
 \openout3 = `Projeto_de_Pesquisa.out'.
 
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 30.
+(Font)              scaled to size 20.74pt on input line 32.
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 30.
+(Font)              scaled to size 10.95pt on input line 32.
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 30.
+(Font)              scaled to size 14.4pt on input line 32.
  [1
 
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:32: LaTeX Error: Environment abstract undefined.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:35: LaTeX Error: Environment abstract undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \begin{abstract}
+l.35 \begin{abstract}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 33.
+(Font)              scaled to size 12.0pt on input line 36.
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 34.
+(Font)              scaled to size 12.0pt on input line 37.
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:36: LaTeX Error: \begin{document} ended by \end{abstract}.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:40: LaTeX Error: \begin{document} ended by \end{abstract}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 \end{abstract}
+l.40 \end{abstract}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/sl' in size <12> not available
-(Font)              Font shape `T1/Arvo-TLF/m/it' tried instead on input line 38.
+(Font)              Font shape `T1/Arvo-TLF/m/it' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 38.
+(Font)              scaled to size 12.0pt on input line 42.
 [2]
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 40.
+(Font)              scaled to size 17.28pt on input line 44.
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 40.
+(Font)              scaled to size 17.28pt on input line 44.
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 55.
+(Font)              scaled to size 14.4pt on input line 62.
 
-Overfull \hbox (4.58994pt too wide) in paragraph at lines 59--60
+Overfull \hbox (4.58994pt too wide) in paragraph at lines 66--67
 []\T1/Arvo-TLF/m/n/12 É ver-dade que na obra de Gi-an-franco Ca-nig-gia e Gian Luigi Maf-fei (2008)
  []
 
 
-Overfull \hbox (6.70276pt too wide) in paragraph at lines 61--62
+Overfull \hbox (6.70276pt too wide) in paragraph at lines 68--69
 \T1/Arvo-TLF/m/n/12 ini-ci-ada no mes-trado. Na dis-ser-ta-ção, de-sen-volvi o con-ceito de ^^Pren-di-mento
  []
 
 
-Overfull \hbox (2.93114pt too wide) in paragraph at lines 61--62
-\T1/Arvo-TLF/m/n/12 de ^^Pren-di-mento^^Q da es-cola ita-li-ana de mor-fo-lo-gia ur-bana, adaptando-o para
+Overfull \hbox (3.56978pt too wide) in paragraph at lines 68--69
+\T1/Arvo-TLF/m/n/12 de \T1/Arvo-TLF/m/it/12 ^^Pren-di-mento^^Q \T1/Arvo-TLF/m/n/12 da es-cola ita-li-ana de mor-fo-lo-gia ur-bana, adaptando-o para
  []
 
 
 Underfull \vbox (badness 1199) has occurred while \output is active []
 
  [3]
-Overfull \hbox (7.24318pt too wide) in paragraph at lines 63--64
+Overfull \hbox (7.24318pt too wide) in paragraph at lines 70--71
 []\T1/Arvo-TLF/m/n/12 Adaptado para a es-cala da ci-dade, o ren-di-mento ur-bano foi de-fi-nido como
  []
 
@@ -444,26 +453,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:67: LaTeX Error: \caption outside float.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:74: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.67         \caption
+l.74         \caption
                      {Figura 2: RelaÃ§Ã£o de percentuais legais entre o traÃ...
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [5]
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 79.
-LaTeX Font Info:    Trying to load font information for TS1+Arvo-TLF on input line 83.
+(Font)              scaled to size 12.0pt on input line 86.
+LaTeX Font Info:    Trying to load font information for TS1+Arvo-TLF on input line 90.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/arvo/TS1Arvo-TLF.fd
 File: TS1Arvo-TLF.fd 2020/12/21 (autoinst) Font definitions for TS1/Arvo-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 83.
+(Font)              scaled to size 12.0pt on input line 90.
  [6]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -471,12 +480,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-Overfull \hbox (0.1861pt too wide) in paragraph at lines 95--96
-\T1/Arvo-TLF/m/n/12 feito so-bre ou-tras ba-ses teó-ri-cas (BON-FATO, 2008; REGO, 2001, 2009; REGO
+Overfull \hbox (6.91205pt too wide) in paragraph at lines 102--103
+\T1/Arvo-TLF/m/n/12 2004); e ainda o pró-prio tra-çado que de-sen-volvi du-rante o mes-trado (COSTA,
  []
 
 [9]
-Overfull \hbox (2.56143pt too wide) in paragraph at lines 108--115
+Overfull \hbox (2.56143pt too wide) in paragraph at lines 115--122
 \T1/Arvo-TLF/m/n/12 am-bi-en-tal, indo além de dis-po-si-ti-vos le-gais (como per-cen-tu-ais de áreas per-
  []
 
@@ -484,105 +493,122 @@ Overfull \hbox (2.56143pt too wide) in paragraph at lines 108--115
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Overfull \hbox (1.63379pt too wide) in paragraph at lines 122--123
+Overfull \hbox (1.63379pt too wide) in paragraph at lines 129--130
 \T1/Arvo-TLF/m/n/12 As pes-qui-sas so-bre ren-di-mento fo-ram de-sen-vol-vi-das uti-li-zando uma amos-
  []
 
 [11]
-Overfull \hbox (7.00995pt too wide) in paragraph at lines 134--139
+LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/it' will be
+(Font)              scaled to size 17.28pt on input line 142.
+
+Overfull \hbox (7.00995pt too wide) in paragraph at lines 147--148
 \T1/Arvo-TLF/m/n/12 ção do termo \T1/Arvo-TLF/m/it/12 Evidence-based De-sign \T1/Arvo-TLF/m/n/12 (HA-MIL-TON E WAT-KINS, 2009). Essa
  []
 
 
-Overfull \hbox (4.58125pt too wide) in paragraph at lines 134--139
+Overfull \hbox (4.58125pt too wide) in paragraph at lines 147--148
 \T1/Arvo-TLF/m/n/12 ni-fi-ca-ti-vos so-bre seus usuá-rios^^Q, sendo uma ^^Pfer-ra-menta es-sen-cial no apoio
  []
 
 
-Overfull \hbox (1.26202pt too wide) in paragraph at lines 134--139
+Overfull \hbox (1.26202pt too wide) in paragraph at lines 147--148
 \T1/Arvo-TLF/m/n/12 saúde e me-di-cina (Evidence-based me-di-cine), in-di-vi-du-ando as característi-
  []
 
 [12]
-Overfull \hbox (12.0025pt too wide) in paragraph at lines 143--144
+Overfull \hbox (12.0025pt too wide) in paragraph at lines 158--159
 \T1/Arvo-TLF/m/n/12 por-tu-guês, cha-ma-mos `evi-dência'. `Evi-dence', em in-glês, cor-res-ponde ^^P[aos]
  []
 
 
-Overfull \hbox (4.63301pt too wide) in paragraph at lines 143--144
+Overfull \hbox (4.63301pt too wide) in paragraph at lines 158--159
 \T1/Arvo-TLF/m/n/12 fa-tos, si-nais ou ob-je-tos que fa-zem você acre-di-tar que algo é ver-dade^^Q (TURN-
  []
 
-
-Underfull \vbox (badness 3229) has occurred while \output is active []
-
- [13]
-Overfull \hbox (0.73764pt too wide) in paragraph at lines 159--160
-\T1/Arvo-TLF/m/n/12 de ma-neira au-to-má-tica com Gras-sHop-per; o Vi-tor Oli-veira tal-vez possa aju-
+[13] [14]
+Overfull \hbox (9.36198pt too wide) in paragraph at lines 175--176
+\T1/Arvo-TLF/m/n/12 con-si-de-rar fa-zer es-ses tra-ça-dos de ma-neira au-to-má-tica com Gras-sHop-
  []
 
-[14]
-Overfull \hbox (15.30965pt too wide) in paragraph at lines 163--183
-\T1/Arvo-TLF/m/n/12 (pro-po-si-ção, aná-lise e ve-ri-fi-ca-ção); i. Pro-cesso de aná-lise do ter-reno/território
+[15]
+Overfull \hbox (2.97568pt too wide) in paragraph at lines 196--197
+[]| \T1/Arvo-TLF/m/n/12 iii. Ren-di-mento como ins-tru-mento para ex-pan-são ur-bana sus-
  []
 
 
-Overfull \hbox (6.0186pt too wide) in paragraph at lines 184--185
-[]\T1/Arvo-TLF/m/n/12 [Delineamento pre-sente na an-tiga ver-são]. Pretende-se de-sen-vol-ver esta
+Overfull \hbox (14.4473pt too wide) in paragraph at lines 202--203
+\T1/Arvo-TLF/m/n/12 esta pes-quisa se-guindo eta-pas de-ter-mi-na-das. Em pri-meiro lu-gar, dever-
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-Underfull \vbox (badness 3229) has occurred while \output is active []
-
- [16] [17]
-
-LaTeX Warning: Reference `fig:frog' on page 18 undefined on input line 226.
-
-
-Overfull \hbox (6.30684pt too wide) in paragraph at lines 226--227
-\T1/Arvo-TLF/m/n/12 First you have to upload the image file from your com-pu-ter using the upload
+Overfull \hbox (13.63998pt too wide) in paragraph at lines 202--203
+\T1/Arvo-TLF/m/n/12 ^^U parti-cularmente na re-la-ção en-tre par-ce-la-mento ru-ral e par-ce-la-mento
  []
 
+[16] [17] [18]
 
-LaTeX Warning: File `Images/frog.jpg' not found on input line 232.
+LaTeX Warning: Reference `fig:frog' on page 19 undefined on input line 245.
 
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:232: Package pdftex.def Error: File `Images/frog.jpg' not found: using draft setting.
+LaTeX Warning: File `Images/frog.jpg' not found on input line 251.
+
+
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:251: Package pdftex.def Error: File `Images/frog.jpg' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.232 ...ics[width=0.3\textwidth]{Images/frog.jpg}
+l.251 ...ics[width=0.3\textwidth]{Images/frog.jpg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 232.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 251.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
-LaTeX Warning: Reference `tab:widgets' on page 18 undefined on input line 238.
+LaTeX Warning: Reference `tab:widgets' on page 19 undefined on input line 257.
 
-[18]
+
+Overfull \hbox (3.02411pt too wide) in paragraph at lines 257--258
+\T1/Arvo-TLF/m/n/12 Use the ta-ble and ta-bu-lar en-vi-ron-ments for ba-sic ta-bles --- see Ta-ble [],
+ []
+
+[19]
+Overfull \hbox (10.32059pt too wide) in paragraph at lines 271--272
+\T1/Arvo-TLF/m/n/12 view exis-ting com-ments, click on the Re-view menu in the to-ol-bar above.
+ []
+
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 272.
+(Font)              scaled to size 8.0pt on input line 291.
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 272.
- [19]
-Overfull \hbox (20.78314pt too wide) in paragraph at lines 284--284
-[]\T1/Arvo-TLF/b/n/14.4 How to change the do-cu-ment lan-guage and spell check
+(Font)              scaled to size 6.0pt on input line 291.
+[20]
+Overfull \hbox (3.26575pt too wide) in paragraph at lines 303--303
+[][]\T1/Arvo-TLF/b/n/14.4 How to change the do-cu-ment lan-guage and spell check
  []
 
 
-LaTeX Warning: Citation `greenwade93' on page 20 undefined on input line 294.
+LaTeX Warning: Citation `greenwade93' on page 21 undefined on input line 313.
 
+[21]
 No file Projeto_de_Pesquisa.bbl.
-[20] (./Projeto_de_Pesquisa.aux)
+
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:324: LaTeX Error: \begin{enumerate} on input line 161 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.324 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[22] (./Projeto_de_Pesquisa.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -596,21 +622,25 @@ Package rerunfilecheck Warning: File `Projeto_de_Pesquisa.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `Projeto_de_Pesquisa.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  32CCC6F3043943AEC8AC533105D7E560;3766.
- ) 
+(rerunfilecheck)             After:  93D7D4B826E94CD729B35FCECEE6F6A1;4040.
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 161 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 11216 strings out of 478268
- 179448 string characters out of 5846347
- 490839 words of memory out of 5000000
- 29194 multiletter control sequences out of 15000+600000
- 485403 words of font info for 70 fonts, out of 8000000 for 9000
+ 11570 strings out of 478268
+ 185379 string characters out of 5846347
+ 499359 words of memory out of 5000000
+ 29526 multiletter control sequences out of 15000+600000
+ 486437 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,63p,2682b,386s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,8n,63p,2682b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_jtfq37.enc}</usr/local/texlive/2022/texmf-dist/fonts/truetype/public/arvo/Arvo-Regular.ttf>{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_od575u.enc}</usr/local/texlive/2022/texmf-dist/fonts/truetype/public/arvo/Arvo-BoldItalic.ttf>{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_fibvii.enc}</usr/local/texlive/2022/texmf-dist/fonts/truetype/public/arvo/Arvo-Italic.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/public/arvo/Arvo-Bold.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/public/arvo/Arvo-Regular.ttf></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Projeto_de_Pesquisa.pdf (20 pages, 181413 bytes).
+Output written on Projeto_de_Pesquisa.pdf (22 pages, 184854 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 155 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
+ 233 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
+ 64 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

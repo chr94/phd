@@ -109,6 +109,17 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/arvo/T1Arvo-TLF.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/arvo/T1Arvo-TLF.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/arvo/T1Arvo-TLF.fd
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/arvo/Arvo-tlf-t1.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
@@ -661,6 +672,9 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/public/arvo/Arvo-BoldItalic-tl
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/arvo/Arvo-BoldItalic-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/public/arvo/Arvo-tlf-ts1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/arvo/Arvo-tlf-ts1--base.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/arvo/Arvo-BoldItalic-tlf-t1.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/public/arvo/Arvo-BoldItalic-tlf-t1.vf
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/arvo/Arvo-BoldItalic-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
