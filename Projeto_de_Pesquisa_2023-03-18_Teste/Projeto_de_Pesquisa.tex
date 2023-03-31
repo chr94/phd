@@ -1,5 +1,5 @@
 % Configurações gerais
-    \documentclass[twoside, 12pt]{book}
+    \documentclass[twoside, 12pt, english,italian,latin,greek,french,spanish,brazil]{book}
         \usepackage{Arvo}
         \usepackage[T1]{fontenc}
         \usepackage{enumitem}
@@ -7,6 +7,9 @@
     % Language setting
     % Replace `english' with e.g. `spanish' to change the document language
     \usepackage[portuguese]{babel}
+    \renewcommand{\thesection}{\arabic{Seção}}
+    \renewcommand{\thechapter}{\arabic{Capítulo}}
+    \addto\captionsbrazil{\renewcommand{\sectionname}{Parte}}
 
     % Set page size and margins
     % Replace `letterpaper' with `a4paper' for UK/EU standard size
@@ -20,12 +23,13 @@
     % Beggining 
 
 
-    \title{A PROJETAÇÃO DE TRAÇADOS URBANOS EM NOVA PERSPECTIVA: \\ \small{O Conceito de Rendimento Urbano desenvolvido como Método de Projeto para (Novas) Áreas Urbanas 
-morfologicamente adequadas ao Sítio}}
+    \title{MORPHOADEQUABILITAS: \\ \small{O Projeto de Traçados Urbanos sob Nova Perspectiva}}
+
+% Título anterior: {A PROJETAÇÃO DE TRAÇADOS URBANOS EM NOVA PERSPECTIVA: \\ \small{O Conceito de Rendimento Urbano desenvolvido como Método de Projeto para (Novas) Áreas Urbanas morfologicamente adequadas ao Sítio}}
 
 \author{Higor Ribeiro da Costa}
 
-    \usepackage{setspace}
+        \usepackage{setspace}
     
 \begin{document}
     \maketitle
@@ -59,7 +63,26 @@ Como projetar novas áreas urbanas morfologicamente adequadas ao sítio? Que é 
             % É possível que já exista um estado da arte que abranja isso que você quer tratar
             % Menção a design guides ingleses – o prof. Renato deve conhecer melhor que eu, mas é muito útil você fazer menção a isso no seu projeto [/introdução].
     
+    %% Comentários Pós-aula Instrumentalização da Tese 2023-03-29 (Gislaine Beloto):
+        % "Faça como o Vitor [Oliveira]: crie uma teoria e vá ser famoso." — "Não se preocupe tanto com o método; isso virá em breve, na própria disciplina".
+        % "\textit{DSR} virou método da moda – essa era a crítica de um artigo que [eu, G.B.] li".
+        % Minha tese, "justamente, pode ser a questão do conceito 'morfoadequado' [sic]" — "se eu coloco [o termo morfoadequabilidade ou morfoadequado] no 'problema', eu não tenho mais tese [,eu não tenho mais do que falar]."
+        % "[Pior que seu trabalho dá para uma teoria, mas não vou falar assim para não te dar bola]
+
     \subsection{Apresentação do tema}	
+
+    Há muito que me pergunto o porquê de nossas cidades serem tão feias. 'Se temos tanta tecnologia hoje, porque construímos casas, prédios, bairros e cidades tão feios?' Passei anos com essa dúvida perseguindo meu pensamento e, em parte, é por essa razão que escrevo a presente tese.
+    %Olavo de Carvalho
+    %Conceito de beleza
+    %Conceito de harmonia
+    %Tipo
+    %Rendimento
+
+    %% O projeto de um traçado urbano é análogo ao que, em música, chamamos de 'variações sobre um tema'. Estas nada mais são que (...). Dito isso, tomemos como exemplo as 'Seis Variações em Ré Maior, Op. 76,' de Beethoven – recomendo a performance no piano de Cédric Tiberghien. Nela, temos sete partes: o tema principal e as seis variações. 
+    %Primeiro, o tema principal. Segundo, uma variação refinada, delicada, que preenche o esqueleto do tema principal. Terceiro, uma mescla do tema principal, mais grossolano e do segundo. Quarto, um tema delicado, assim como o segundo, com pinceladas suaves sobre o tema inicial, à semelhança do que faz a segunda variação. Quinto, uma brincadeira criativa com as variações precedentes, mostrando os contornos dos músculos assentados sobre os ossos do tema inicial. Na sexta, a pele, a última cobertura delicada a se aplicar ao corpo de variações. E, por fim, na sétima peça, a sexta, última, e mais longa variação, uma complexa construção resultante de todas as variacoes, do esqueleto do tema à pele suave do corpo, assim como o traçado com suas edificações harmoniosamente assentadas sobre o sítio. Assim deve ser o projeto de um traçado urbano. Um vai e volta que sempre observa o tema principal dominante – o relevo, a topografia, as estruturas naturais do sítio – ao mesmo tempo em que agrega a ele elementos antrópicos: percursos, ruas, quadras, edificações, musculatura ao esqueleto, gerando um conjunto coeso que, no fim, ainda revela a estrutura inicial, assim como um corpo humano deixa entrever sua estrutura óssea por meio do seu formato.
+
+        \textit{$\mu$ο$\rho\phi$ή} (morfé) e \textit{adæquabilitas}, forma e adequabilidade.
+    Adequabilidade da forma, ou adequabilidade à forma
 
         Como projetar novos traçados urbanos morfologicamente adequados ao sítio de maneira metódica? Em minha dissertação (COSTA, 2020), pude verificar que é possível projetar novos traçados urbanos adequados às características orográficas de um sítio, gerando, outrossim, parâmetros para a avaliação desses traçados. Porém, uma coisa sou eu projetar um traçado urbano dentro de um contexto acadêmico. Outra coisa são outros estudantes a efetuar a mesma tarefa sem o mesmo cabedal. Mais ainda, uma coisa é o \textit{Quartiere Quinto} em Gênova, de Gianfranco Caniggia (Figura 1); e outra coisa são os loteamentos que surgem à medida que nossas cidades se expandem atualmente. São duas \textit{formae mentis} distintas, dois modos de projetar diversos, dois \textit{modi faciendi} completamente diferentes. De uma parte, aqueles que partem da apreensão da realidade material antes do projeto;  de outra aqueles que têm uma concepção apriorística do que realizar, e que só fazem pequenos ajustes no esquema mental ao confrontá-lo com a realidade. Em ambas as situações, porém, e principalmente na primeira, a \textit{forma mentis} é fruto de um saber construído de maneira complexa, quase que por tradição – ainda que aprendida na universidade – e pouco dela se tem sistematizado como método, e menos ainda de maneira automatizada. 
 
@@ -102,29 +125,37 @@ Como projetar novas áreas urbanas morfologicamente adequadas ao sítio? Que é 
         A primeira hipótese é a de que é possível projetar novos traçados urbanos morfologicamente adequados ao sítio. Corroboram com essa hipótese o próprio \textit{Quartiere Quinto} em Gênova, de Caniggia, já mencionado (CATALDI et al., 2014), o \textit{Piano per le Barene di San Giuliano} em Veneza, de Saverio Muratori (MARETTO, 2013; OLIVEIRA, 2021), o próprio ‘Ante-projeto’ para Maringá, projetado por Jorge de Macedo Vieira – ainda que feito sobre outras bases teóricas (BONFATO, 2008; REGO, 2001, 2009; REGO et al. 2004); e ainda o próprio traçado que desenvolvi durante o mestrado (COSTA, 2020). 
 
         Partindo dessa primeira hipótese surge a seguinte questão: como projetar novos traçados urbanos morfologicamente adequados ao sítio por meio de um método? E, a partir disso, a seguinte questão derivada: esse método serve – ou deve servir – para todos os contextos (situações reais) ou apenas para algumas situações específicas? Por exemplo: 
-            •	Servirá só para casos \textit{ex novo} (como no Plano Vieira e no traçado da dissertação)? 
-            •	Servirá para situações com \textit{land readjustment}?
-            •	Ou também servirá para situações previamente parceladas?
-                o	Com um parcelamento urbano prévio?
+        \dots
+            \begin{itemize}
+                \item Servirá só para casos \textit{ex novo} (como no Plano Vieira e no traçado da dissertação)? 
+                \item Servirá para situações com \textit{land readjustment}?
+                \item Ou também servirá para situações previamente parceladas?
+                    \subitem Com um parcelamento urbano prévio?
 	                Com um parcelamento rural prévio?
-	                – Segmentado em pequenas propriedades, como as da CTNP?
-                    – Ou também com outras configurações, com glebas maiores?
+	                    \subsubitem Segmentado em pequenas propriedades, como as da CTNP?
+                        \subsubitem Ou também com outras configurações, com glebas maiores?
+            \end{itemize}
 
         Já a segunda hipótese, subordinada à primeira, é a de que existem traçados urbanos morfologicamente melhores e piores. A questão é: traçados urbanos são melhores ou piores sob quais aspectos? Um traçado em grelha com \textit{offset}, por exemplo, é proveitoso para quem deseja economizar com tempo, recursos humanos e infraestruturas, além de lucrar com maior facilidade; mas não é proveitoso para o usuário final (proprietário) e para a sociedade. O empreendedor economiza ao pagar profissionais sem \textit{savoir-faire} específico durante menos tempo por um projeto simples e comum, feito no quotidiano de um escritório que precisa de muitos desses pequenos projetos para se manter. Além disso, com lotes projetados com formatos estritamente ortogonais, o processo de demarcação é (aparentemente) mais simples, a venda é mais rápida, a contabilização de áreas é mais prática e o registro em cartório é (aparentemente) mais célere. Mas os benefícios param por aqui. Os contras são a ‘mono-tonia’, a dificuldade em evitar declives graças ao desenho forçosamente retilíneo que pouco ou nada se adapta à pendência pluvial, e, como consequência do desenho do traçado, muitas vezes a necessidade de movimentação de terra no sentido de lateral a lateral do lote se faz presente, com ladeiras nas ruas que tornam difícil o acesso aos lotes, bem como a construção de calçadas contínuas que propiciem a caminhabilidade para os diversos grupos sociais. E isso tudo na escala do loteamento, sem falar nos impactos na escala da cidade com o desencontro de vias e falta de hierarquização – que, justiça seja feita, não é apanágio apenas do traçado em grelha –, a dificuldade de implementação de rotas de transporte público que ‘atraiam’ todas as classes sociais (por conta desse desencontro e falta de hierarquização, sobretudo hierarquização baseada na morfologia do sítio), a dificuldade de implementação dessas infraestruturas de transporte graças à elevada declividade que sói ocorrer e à \textit{sharpness} dos cruzamentos ortogonais, e a pouca atenção à hierarquização dos percursos (matriz, de implantação e coligação) que causa problemas de legibilidade e consequente dano ao imaginário coletivo.
 
         A partir disso – ainda dentro da segunda questão –, podemos nos perguntar: o que torna um traçado urbano melhor (que outro)? E mais, ‘melhor’ sob quais critérios? Sob quais parâmetros – apenas aqueles apresentados na dissertação, ou poderia haver outros com os quais aferir essa qualidade (ontológica)? Outra questão derivada dessa segunda hipótese é: faz sentido falar em um melhor traçado, \textit{tout court}? Ou apenas em melhor traçado sob um ‘determinado’ aspecto ou mesmo ‘sob alguns’ aspectos? E quais seriam esses aspectos? E quais deles seriam mais relevantes para a presente pesquisa? 
-            •	A simples adequação ao relevo (morfoadequabilidade)? 
-            •	A \textit{thigmotaxis} (SUSSMANN, 2021), com a qual talvez essa adaptação ao relevo possa contribuir – e como medir essa relação, existiria aí um nexo causal? 
-            •	Ou ainda os aspectos observados por Vitor Oliveira e Mafalda Silva (2013) na metodologia \textit{Morpho}, em particular com a sintaxe espacial e seus critérios de acessibilidade topológica? 
-            •	Talvez ainda o \textit{waterflow}, com a prevenção de erosões (com o fluxo de água mais lento e diluído pelo traçado) e o casamento do traçado urbano com a sus-tentabilidade ambiental, indo além de dispositivos legais (como percentuais de áreas permeáveis e o uso de áreas de alagamento)? 
-            •	Critérios como custos e viabilidade de implementação, como preços de infraestruturas, lotes, implementação de modais de transporte (a depender do traça-do, das curvas, da sinuosidade, do comprimento dos percursos e da declividade), tudo impactando na economia das cidades (BERTAUD, 2018)?
-            •	Ou ainda os impactos na paisagem – seja ela a paisagem campanha-cidade ou a paisagem (intra)urbana (DAVERIO, PASOLINI) – e no imaginário coletivo (CARVALHO, 2012)?
+        \dots or bullet points \dots
+            \begin{itemize}
+                \item A simples adequação ao relevo (morfoadequabilidade)? 
+                \item A \textit{thigmotaxis} (SUSSMANN, 2021), com a qual talvez essa adaptação ao relevo possa contribuir – e como medir essa relação, existiria aí um nexo causal? 
+                \item Ou ainda os aspectos observados por Vitor Oliveira e Mafalda Silva (2013) na metodologia \textit{Morpho}, em particular com a sintaxe espacial e seus critérios de acessibilidade topológica? 
+                \item Talvez ainda o \textit{waterflow}, com a prevenção de erosões (com o fluxo de água mais lento e diluído pelo traçado) e o casamento do traçado urbano com a sus-tentabilidade ambiental, indo além de dispositivos legais (como percentuais de áreas permeáveis e o uso de áreas de alagamento)? 
+                \item Critérios como custos e viabilidade de implementação, como preços de infraestruturas, lotes, implementação de modais de transporte (a depender do traça-do, das curvas, da sinuosidade, do comprimento dos percursos e da declividade), tudo impactando na economia das cidades (BERTAUD, 2018)?
+                \item Ou ainda os impactos na paisagem – seja ela a paisagem campanha-cidade ou a paisagem (intra)urbana (DAVERIO, PASOLINI) – e no imaginário coletivo (CARVALHO, 2012)?
+            \end{itemize}
 
     \subsection{Objetivos}	 
 
         A partir das hipóteses e questões levantadas, chego a um objetivo principal e um secundário, a saber: primeiro, desenvolver um método de projeto de traçados urbanos morfologicamente adequados ao sítio, e, subordinado a isso, testar parâmetros que possam se relacionar com a morfoadequabilidade. Em relação ao ‘método’ em questão, a ideia é que este sirva para ‘x’ situações (idealmente para todos os contextos), ou ao menos que este seja um método “generalista”, capaz de ter sua aplicação adaptada a diversas situações para alcançar o mesmo fim.
 
     \subsection{Objeto}
+
+    %%Corrigir o "objeto", pois 'objeto' de pesquisa não é o pedaço de amostra com que vou trabalhar. (Cf. Anotações da Gislaine).
 
         As pesquisas sobre rendimento foram desenvolvidas utilizando uma amostra de traçado urbano já consolidado da cidade de Maringá-PR. O que pode ser feito neste momento é a continuação dos estudos sobre traçados baseados no rendimento urbano, porém, partindo para áreas não urbanizadas do mesmo município, seja por continuidade lógica com o objeto já analisado – para efeitos de comparação dos resultados entre as pesquisas –, seja pelo mesmo município apresentar uma topografia de relevo variado (COSTA, 2020), o que possibilita diferentes alternativas de traçados urbanos com rendimento urbano. Além disso, uma vez franqueado o acesso aos materiais disponibilizados pela Prefeitura do Município de Maringá e pela Universidade Estadual de Maringá, o levantamento dos dados torna-se factível. E, sobretudo, o escambo entre essas instituições pode levar a implementações satisfatórias dos resultados desde estudo, levando à abertura de novas frentes de pesquisa. Desse modo, o objeto material dessa pesquisa constitui-se da área contida no perímetro município de Maringá – ou seja, tanto o perímetro urbano quanto a área rural e de reserva ao seu redor –, considerando suas pré-existências naturais (particularmente orografia e hidrografia) e antrópicas (do seu anteprojeto feito por Vieira à sua situação atual do seu parcelário, conforme o material que for obtido junto à Prefeitura do Município). Já o objeto por assim dizer ‘conceitual’ será o próprio conceito de rendimento, a ser refinado e trans-posto do campo das ideias e parâmetros abstratos para o universo dos métodos de projeto com passo-a-passos factíveis, diretrizes claras e normas autoexecutáveis.
 
@@ -163,6 +194,7 @@ Como projetar novas áreas urbanas morfologicamente adequadas ao sítio? Que é 
             \item Conhecimento oriundo da experiência profissional; 
             \item Conhecimento obtido dos clientes e usuários;
             \item Conhecimento advindo do contexto de projeto e do ambiente.
+        \end{enumerate}
 
         A importância da \textit{EBD} reside no fato de que “a informação sobre o impacto de solu-ções de projeto sobre os usuários e na manutenção podem influenciar o modo como o projeto se desenvolve” (DAVOUDIAN, 2019, p. XIV, tradução nossa), além disso cres-cem as discussões sobre como a EBD se alinha ou contradiz novos projetos, métodos e teorias de produção, com uma emergente conexão entre a EBD e o design paramétri-co, tema correlato à presente pesquisa.
 

@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1679684765 "/Users/Pancratii/Documents/GitHub/phd/Projeto_Pesquisa_teste/Projeto_Pesquisa_teste.tex" "Projeto_Pesquisa_teste.pdf" "Projeto_Pesquisa_teste" 1679684765
-  "/Users/Pancratii/Documents/GitHub/phd/Projeto_Pesquisa_teste/Projeto_Pesquisa_teste.tex" 1679684763 1183 e17c5c07d9d8ec856faa493c00769d2d ""
+["pdflatex"] 1679803729 "/Users/Pancratii/Documents/GitHub/phd/Projeto_Pesquisa_teste/Projeto_Pesquisa_teste.tex" "Projeto_Pesquisa_teste.pdf" "Projeto_Pesquisa_teste" 1679803729
+  "/Users/Pancratii/Documents/GitHub/phd/Projeto_Pesquisa_teste/Projeto_Pesquisa_teste.tex" 1679803727 46233 b9b42c7b01036596cb3c1582b47121fd ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/arvo/Arvo-tlf-t1.tfm" 1608588644 2088 9b2338d4b01dac0ee21375d8ac4b8a76 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -91,8 +91,8 @@
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1678999146 2826444 aacb20afd21b9ce1cdfbe962996ce196 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Projeto_Pesquisa_teste.aux" 1679684765 32 3985256e7290058c681f74d7a3565a19 ""
-  "Projeto_Pesquisa_teste.tex" 1679684763 1183 e17c5c07d9d8ec856faa493c00769d2d ""
+  "Projeto_Pesquisa_teste.aux" 1679803729 32 3985256e7290058c681f74d7a3565a19 ""
+  "Projeto_Pesquisa_teste.tex" 1679803727 46233 b9b42c7b01036596cb3c1582b47121fd ""
   "lib.sty" 0 -1 0 ""
   (generated)
   "Projeto_Pesquisa_teste.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  24 MAR 2023 16:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  26 MAR 2023 01:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1089,8 +1089,8 @@ Enter file name:
 /Users/Pancratii/Documents/GitHub/phd/Projeto_Pesquisa_teste/Projeto_Pesquisa_teste.tex:13: Emergency stop.
 <read *> 
          
-l.13         \usepackage
-                        [brazilian,hyperpageref]{backref}^^M
+l.13 ^^M
+        
 *** (cannot \read from terminal in nonstop modes)
 
  
