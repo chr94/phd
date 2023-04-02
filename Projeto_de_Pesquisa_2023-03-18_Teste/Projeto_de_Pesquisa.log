@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  31 MAR 2023 13:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  1 APR 2023 21:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -896,283 +896,291 @@ look up `weird error' in the index to The TeXbook.)
 
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 72.
+[3]
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:84: LaTeX Error: Command \textomicron unavailable in encoding T1.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:100: LaTeX Error: Command \textomicron unavailable in encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.84         \textit{$\mu$ο$\rho\phi$ή}
-                                          (morfé) e \textit{adæquabilitas}...
+l.100         \textit{$\mu$ο$\rho\phi$ή}
+                                           (morfé) e \textit{adæquabilitas...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Font Info:    Trying to load font information for LGR+Arvo-TLF on input line 84.
-LaTeX Font Info:    No file LGRArvo-TLF.fd. on input line 84.
+LaTeX Font Info:    Trying to load font information for LGR+Arvo-TLF on input line 100.
+LaTeX Font Info:    No file LGRArvo-TLF.fd. on input line 100.
 
 LaTeX Font Warning: Font shape `LGR/Arvo-TLF/m/it' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 84.
+(Font)              using `LGR/cmr/m/n' instead on input line 100.
 
 
-Overfull \hbox (4.58994pt too wide) in paragraph at lines 89--90
+Overfull \hbox (4.58994pt too wide) in paragraph at lines 105--106
 []\T1/Arvo-TLF/m/n/12 � ver-dade que na obra de Gi-an-franco Ca-nig-gia e Gian Luigi Maf-fei (2008)
  []
 
-[3]
-Overfull \hbox (6.70276pt too wide) in paragraph at lines 91--92
+
+Underfull \vbox (badness 1360) has occurred while \output is active []
+
+ [4]
+Overfull \hbox (6.70276pt too wide) in paragraph at lines 107--108
 \T1/Arvo-TLF/m/n/12 ini-ci-ada no mes-trado. Na dis-ser-ta-��o, de-sen-volvi o con-ceito de ^^Pren-di-mento
  []
 
 
-Overfull \hbox (3.56978pt too wide) in paragraph at lines 91--92
+Overfull \hbox (3.56978pt too wide) in paragraph at lines 107--108
 \T1/Arvo-TLF/m/n/12 de \T1/Arvo-TLF/m/it/12 ^^Pren-di-mento^^Q \T1/Arvo-TLF/m/n/12 da es-cola ita-li-ana de mor-fo-lo-gia ur-bana, adaptando-o para
  []
 
 
-Overfull \hbox (7.24318pt too wide) in paragraph at lines 93--94
+Overfull \hbox (7.24318pt too wide) in paragraph at lines 109--110
 []\T1/Arvo-TLF/m/n/12 Adaptado para a es-cala da ci-dade, o ren-di-mento ur-bano foi de-fi-nido como
  []
 
 
 Underfull \vbox (badness 3229) has occurred while \output is active []
 
- [4]
+ [5]
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:97: LaTeX Error: \caption outside float.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:113: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97         \caption
-                     {Figura 2: Relação de percentuais legais entre o tra�...
+l.113         \caption
+                      {Figura 2: Relação de percentuais legais entre o tra...
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[5]
+[6]
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 109.
-LaTeX Font Info:    Trying to load font information for TS1+Arvo-TLF on input line 113.
+(Font)              scaled to size 12.0pt on input line 125.
+ [7]
+LaTeX Font Info:    Trying to load font information for TS1+Arvo-TLF on input line 129.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/arvo/TS1Arvo-TLF.fd
 File: TS1Arvo-TLF.fd 2020/12/21 (autoinst) Font definitions for TS1/Arvo-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 113.
- [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(Font)              scaled to size 12.0pt on input line 129.
 
- [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-Overfull \hbox (6.91205pt too wide) in paragraph at lines 125--126
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Overfull \hbox (6.91205pt too wide) in paragraph at lines 141--142
 \T1/Arvo-TLF/m/n/12 2004); e ainda o pr�-prio tra-�ado que de-sen-volvi du-rante o mes-trado (COSTA,
  []
 
-[9] [10]
-Overfull \hbox (1.63379pt too wide) in paragraph at lines 160--161
+[10]
+Underfull \vbox (badness 1975) has occurred while \output is active []
+
+ [11]
+Overfull \hbox (1.63379pt too wide) in paragraph at lines 176--177
 \T1/Arvo-TLF/m/n/12 As pes-qui-sas so-bre ren-di-mento fo-ram de-sen-vol-vi-das uti-li-zando uma amos-
  []
 
-[11] [12]
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:173: Missing number, treated as zero.
+[12] [13]
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:189: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.173 ...: \textit{Design Science Research (DSR)}}
+l.189 ...: \textit{Design Science Research (DSR)}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:173: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:189: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.173 ...: \textit{Design Science Research (DSR)}}
+l.189 ...: \textit{Design Science Research (DSR)}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/it' will be
-(Font)              scaled to size 17.28pt on input line 173.
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:173: Missing number, treated as zero.
+(Font)              scaled to size 17.28pt on input line 189.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:189: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.173 ...: \textit{Design Science Research (DSR)}}
+l.189 ...: \textit{Design Science Research (DSR)}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:173: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:189: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.173 ...: \textit{Design Science Research (DSR)}}
+l.189 ...: \textit{Design Science Research (DSR)}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:176: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:192: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.176 ...{Método: \textit{Evidence-based Design}}
+l.192 ...{Método: \textit{Evidence-based Design}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:176: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:192: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.176 ...{Método: \textit{Evidence-based Design}}
+l.192 ...{Método: \textit{Evidence-based Design}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:176: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:192: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.176 ...{Método: \textit{Evidence-based Design}}
+l.192 ...{Método: \textit{Evidence-based Design}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:176: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:192: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.176 ...{Método: \textit{Evidence-based Design}}
+l.192 ...{Método: \textit{Evidence-based Design}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 
-Overfull \hbox (7.00995pt too wide) in paragraph at lines 178--179
+Overfull \hbox (7.00995pt too wide) in paragraph at lines 194--195
 \T1/Arvo-TLF/m/n/12 ��o do termo \T1/Arvo-TLF/m/it/12 Evidence-based De-sign \T1/Arvo-TLF/m/n/12 (HA-MIL-TON E WAT-KINS, 2009). Essa
  []
 
 
-Overfull \hbox (4.58125pt too wide) in paragraph at lines 178--179
+Overfull \hbox (4.58125pt too wide) in paragraph at lines 194--195
 \T1/Arvo-TLF/m/n/12 ni-fi-ca-ti-vos so-bre seus usu�-rios^^Q, sendo uma ^^Pfer-ra-menta es-sen-cial no apoio
  []
 
 
-Overfull \hbox (1.26202pt too wide) in paragraph at lines 178--179
+Overfull \hbox (1.26202pt too wide) in paragraph at lines 194--195
 \T1/Arvo-TLF/m/n/12 sa�de e me-di-cina (Evidence-based me-di-cine), in-di-vi-du-ando as caracter�sti-
  []
 
-[13]
-Overfull \hbox (12.0025pt too wide) in paragraph at lines 189--190
+[14]
+Overfull \hbox (12.0025pt too wide) in paragraph at lines 205--206
 \T1/Arvo-TLF/m/n/12 por-tu-gu�s, cha-ma-mos `evi-d�ncia'. `Evi-dence', em in-gl�s, cor-res-ponde ^^P[aos]
  []
 
 
-Overfull \hbox (4.63301pt too wide) in paragraph at lines 189--190
+Overfull \hbox (4.63301pt too wide) in paragraph at lines 205--206
 \T1/Arvo-TLF/m/n/12 fa-tos, si-nais ou ob-je-tos que fa-zem voc� acre-di-tar que algo � ver-dade^^Q (TURN-
  []
 
-[14]
-Overfull \hbox (0.73764pt too wide) in paragraph at lines 207--208
+[15]
+Overfull \hbox (0.73764pt too wide) in paragraph at lines 223--224
 \T1/Arvo-TLF/m/n/12 de ma-neira au-to-m�-tica com Gras-sHop-per; o Vi-tor Oli-veira tal-vez possa aju-
  []
 
-[15]
-Overfull \hbox (4.25658pt too wide) in paragraph at lines 227--228
+[16] [17]
+Overfull \hbox (4.25658pt too wide) in paragraph at lines 243--244
 []| \T1/Arvo-TLF/m/n/12 ii. Ren-di-mento e aces-si-bi-li-dade to-po-l�-gica: in-cen-ti-var e coi-bir usos
  []
 
-[16]
-Overfull \hbox (6.0186pt too wide) in paragraph at lines 234--235
+
+Overfull \hbox (6.0186pt too wide) in paragraph at lines 250--251
 []\T1/Arvo-TLF/m/n/12 [Delineamento pre-sente na an-tiga ver-s�o]. Pretende-se de-sen-vol-ver esta
  []
 
-[17] [18]
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:269: Missing number, treated as zero.
+[18] [19]
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:285: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.269 \section{Some examples to get started}
+l.285 \section{Some examples to get started}
                                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:269: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:285: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.269 \section{Some examples to get started}
+l.285 \section{Some examples to get started}
                                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:269: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:285: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.269 \section{Some examples to get started}
+l.285 \section{Some examples to get started}
                                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:269: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:285: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.269 \section{Some examples to get started}
+l.285 \section{Some examples to get started}
                                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 
-LaTeX Warning: Reference `fig:frog' on page 19 undefined on input line 277.
+LaTeX Warning: Reference `fig:frog' on page 20 undefined on input line 293.
 
 
-Overfull \hbox (6.30684pt too wide) in paragraph at lines 277--278
+Overfull \hbox (6.30684pt too wide) in paragraph at lines 293--294
 \T1/Arvo-TLF/m/n/12 First you have to upload the image file from your com-pu-ter using the upload
  []
 
 
-LaTeX Warning: File `Images/frog.jpg' not found on input line 283.
+LaTeX Warning: File `Images/frog.jpg' not found on input line 299.
 
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:283: Package pdftex.def Error: File `Images/frog.jpg' not found: using draft setting.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:299: Package pdftex.def Error: File `Images/frog.jpg' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.283 ...ics[width=0.3\textwidth]{Images/frog.jpg}
+l.299 ...ics[width=0.3\textwidth]{Images/frog.jpg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 283.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 299.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
-LaTeX Warning: Reference `tab:widgets' on page 19 undefined on input line 289.
+LaTeX Warning: Reference `tab:widgets' on page 20 undefined on input line 305.
 
-[19]
+[20]
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 323.
+(Font)              scaled to size 8.0pt on input line 339.
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 323.
- [20]
-Overfull \hbox (2.94014pt too wide) in paragraph at lines 335--335
+(Font)              scaled to size 6.0pt on input line 339.
+ [21]
+Overfull \hbox (2.94014pt too wide) in paragraph at lines 351--351
 [][]\T1/Arvo-TLF/b/n/14.4 How to change the do-cu-ment lan-guage and spell check set-
  []
 
 
-LaTeX Warning: Citation `greenwade93' on page 21 undefined on input line 345.
+LaTeX Warning: Citation `greenwade93' on page 22 undefined on input line 361.
 
 No file Projeto_de_Pesquisa.bbl.
-[21] (./Projeto_de_Pesquisa.aux)
+[22] (./Projeto_de_Pesquisa.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1192,18 +1200,18 @@ Package rerunfilecheck Info: Checksums for `Projeto_de_Pesquisa.out':
 (rerunfilecheck)             After:  93D7D4B826E94CD729B35FCECEE6F6A1;4040.
  ) 
 Here is how much of TeX's memory you used:
- 14939 strings out of 478268
- 241297 string characters out of 5846347
- 545412 words of memory out of 5000000
+ 14940 strings out of 478268
+ 241304 string characters out of 5846347
+ 546412 words of memory out of 5000000
  32836 multiletter control sequences out of 15000+600000
  487125 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,63p,2682b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,8n,63p,2682b,504s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_jtfq37.enc}</usr/local/texlive/2022/texmf-dist/fonts/truetype/public/arvo/Arvo-Regular.ttf>{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_od575u.enc}</usr/local/texlive/2022/texmf-dist/fonts/truetype/public/arvo/Arvo-BoldItalic.ttf>{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_fibvii.enc}</usr/local/texlive/2022/texmf-dist/fonts/truetype/public/arvo/Arvo-Italic.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/public/arvo/Arvo-Bold.ttf></usr/local/texlive/2022/texmf-dist/fonts/truetype/public/arvo/Arvo-Regular.ttf></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Projeto_de_Pesquisa.pdf (21 pages, 193165 bytes).
+Output written on Projeto_de_Pesquisa.pdf (22 pages, 196149 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 179 compressed objects within 2 object streams
- 63 named destinations out of 1000 (max. 500000)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 64 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
