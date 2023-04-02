@@ -6,8 +6,8 @@
   (generated)
   "Projeto_de_Pesquisa.bbl"
   "Projeto_de_Pesquisa.blg"
-["pdflatex"] 1680395405 "/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" "Projeto_de_Pesquisa.pdf" "Projeto_de_Pesquisa" 1680395405
-  "/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" 1680395402 61622 a5fc784f1dfcccef6593e3f05e871795 ""
+["pdflatex"] 1680395455 "/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" "Projeto_de_Pesquisa.pdf" "Projeto_de_Pesquisa" 1680395455
+  "/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" 1680395452 61618 02c83fc3e8ff280dd775b8d07f13c750 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_fibvii.enc" 1608588644 2823 5be281d0369073692d2c974c46dfb356 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_jtfq37.enc" 1608588644 3129 c838dd10c17fd261343a7e8a2a5962be ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_od575u.enc" 1608588644 2827 c5d3938c45dbdc7735eb17353f64a73f ""
@@ -142,10 +142,10 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1678999146 2826444 aacb20afd21b9ce1cdfbe962996ce196 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "Images/frog.jpg" 0 -1 0 ""
-  "Projeto_de_Pesquisa.aux" 1680395405 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Projeto_de_Pesquisa.aux" 1680395455 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "Projeto_de_Pesquisa.bbl" 0 -1 0 "bibtex Projeto_de_Pesquisa"
   "Projeto_de_Pesquisa.out" 0 -1 0 "pdflatex"
-  "Projeto_de_Pesquisa.tex" 1680395402 61622 a5fc784f1dfcccef6593e3f05e871795 ""
+  "Projeto_de_Pesquisa.tex" 1680395452 61618 02c83fc3e8ff280dd775b8d07f13c750 ""
   (generated)
   "Projeto_de_Pesquisa.aux"
   "Projeto_de_Pesquisa.log"

@@ -898,26 +898,26 @@ LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 72.
 [3]
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:100: LaTeX Error: Command \textomicron unavailable in encoding T1.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:99: LaTeX Error: Command \textomicron unavailable in encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.100         \textit{$\mu$ο$\rho\phi$ή}
-                                           (morfé) e \textit{adæquabilitas...
+l.99         \textit{$\mu$ο$\rho\phi$ή}
+                                          (morfé) e \textit{adæquabilitas}...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Font Info:    Trying to load font information for LGR+Arvo-TLF on input line 100.
-LaTeX Font Info:    No file LGRArvo-TLF.fd. on input line 100.
+LaTeX Font Info:    Trying to load font information for LGR+Arvo-TLF on input line 99.
+LaTeX Font Info:    No file LGRArvo-TLF.fd. on input line 99.
 
 LaTeX Font Warning: Font shape `LGR/Arvo-TLF/m/it' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 100.
+(Font)              using `LGR/cmr/m/n' instead on input line 99.
 
 
-Overfull \hbox (4.58994pt too wide) in paragraph at lines 105--106
+Overfull \hbox (4.58994pt too wide) in paragraph at lines 104--105
 []\T1/Arvo-TLF/m/n/12 � ver-dade que na obra de Gi-an-franco Ca-nig-gia e Gian Luigi Maf-fei (2008)
  []
 
@@ -925,17 +925,17 @@ Overfull \hbox (4.58994pt too wide) in paragraph at lines 105--106
 Underfull \vbox (badness 1360) has occurred while \output is active []
 
  [4]
-Overfull \hbox (6.70276pt too wide) in paragraph at lines 107--108
+Overfull \hbox (6.70276pt too wide) in paragraph at lines 106--107
 \T1/Arvo-TLF/m/n/12 ini-ci-ada no mes-trado. Na dis-ser-ta-��o, de-sen-volvi o con-ceito de ^^Pren-di-mento
  []
 
 
-Overfull \hbox (3.56978pt too wide) in paragraph at lines 107--108
+Overfull \hbox (3.56978pt too wide) in paragraph at lines 106--107
 \T1/Arvo-TLF/m/n/12 de \T1/Arvo-TLF/m/it/12 ^^Pren-di-mento^^Q \T1/Arvo-TLF/m/n/12 da es-cola ita-li-ana de mor-fo-lo-gia ur-bana, adaptando-o para
  []
 
 
-Overfull \hbox (7.24318pt too wide) in paragraph at lines 109--110
+Overfull \hbox (7.24318pt too wide) in paragraph at lines 108--109
 []\T1/Arvo-TLF/m/n/12 Adaptado para a es-cala da ci-dade, o ren-di-mento ur-bano foi de-fi-nido como
  []
 
@@ -944,27 +944,27 @@ Underfull \vbox (badness 3229) has occurred while \output is active []
 
  [5]
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:113: LaTeX Error: \caption outside float.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:112: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.113         \caption
+l.112         \caption
                       {Figura 2: Relação de percentuais legais entre o tra...
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [6]
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 125.
+(Font)              scaled to size 12.0pt on input line 124.
  [7]
-LaTeX Font Info:    Trying to load font information for TS1+Arvo-TLF on input line 129.
+LaTeX Font Info:    Trying to load font information for TS1+Arvo-TLF on input line 128.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/arvo/TS1Arvo-TLF.fd
 File: TS1Arvo-TLF.fd 2020/12/21 (autoinst) Font definitions for TS1/Arvo-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 129.
+(Font)              scaled to size 12.0pt on input line 128.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -972,7 +972,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-Overfull \hbox (6.91205pt too wide) in paragraph at lines 141--142
+Overfull \hbox (6.91205pt too wide) in paragraph at lines 140--141
 \T1/Arvo-TLF/m/n/12 2004); e ainda o pr�-prio tra-�ado que de-sen-volvi du-rante o mes-trado (COSTA,
  []
 
@@ -980,204 +980,204 @@ Overfull \hbox (6.91205pt too wide) in paragraph at lines 141--142
 Underfull \vbox (badness 1975) has occurred while \output is active []
 
  [11]
-Overfull \hbox (1.63379pt too wide) in paragraph at lines 176--177
+Overfull \hbox (1.63379pt too wide) in paragraph at lines 175--176
 \T1/Arvo-TLF/m/n/12 As pes-qui-sas so-bre ren-di-mento fo-ram de-sen-vol-vi-das uti-li-zando uma amos-
  []
 
 [12] [13]
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:189: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:188: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.189 ...: \textit{Design Science Research (DSR)}}
+l.188 ...: \textit{Design Science Research (DSR)}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:189: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:188: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.189 ...: \textit{Design Science Research (DSR)}}
+l.188 ...: \textit{Design Science Research (DSR)}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/b/it' will be
-(Font)              scaled to size 17.28pt on input line 189.
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:189: Missing number, treated as zero.
+(Font)              scaled to size 17.28pt on input line 188.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:188: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.189 ...: \textit{Design Science Research (DSR)}}
+l.188 ...: \textit{Design Science Research (DSR)}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:189: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:188: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.189 ...: \textit{Design Science Research (DSR)}}
+l.188 ...: \textit{Design Science Research (DSR)}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:192: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:191: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.192 ...{Método: \textit{Evidence-based Design}}
+l.191 ...{Método: \textit{Evidence-based Design}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:192: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:191: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.192 ...{Método: \textit{Evidence-based Design}}
+l.191 ...{Método: \textit{Evidence-based Design}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:192: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:191: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.192 ...{Método: \textit{Evidence-based Design}}
+l.191 ...{Método: \textit{Evidence-based Design}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:192: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:191: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.192 ...{Método: \textit{Evidence-based Design}}
+l.191 ...{Método: \textit{Evidence-based Design}}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 
-Overfull \hbox (7.00995pt too wide) in paragraph at lines 194--195
+Overfull \hbox (7.00995pt too wide) in paragraph at lines 193--194
 \T1/Arvo-TLF/m/n/12 ��o do termo \T1/Arvo-TLF/m/it/12 Evidence-based De-sign \T1/Arvo-TLF/m/n/12 (HA-MIL-TON E WAT-KINS, 2009). Essa
  []
 
 
-Overfull \hbox (4.58125pt too wide) in paragraph at lines 194--195
+Overfull \hbox (4.58125pt too wide) in paragraph at lines 193--194
 \T1/Arvo-TLF/m/n/12 ni-fi-ca-ti-vos so-bre seus usu�-rios^^Q, sendo uma ^^Pfer-ra-menta es-sen-cial no apoio
  []
 
 
-Overfull \hbox (1.26202pt too wide) in paragraph at lines 194--195
+Overfull \hbox (1.26202pt too wide) in paragraph at lines 193--194
 \T1/Arvo-TLF/m/n/12 sa�de e me-di-cina (Evidence-based me-di-cine), in-di-vi-du-ando as caracter�sti-
  []
 
 [14]
-Overfull \hbox (12.0025pt too wide) in paragraph at lines 205--206
+Overfull \hbox (12.0025pt too wide) in paragraph at lines 204--205
 \T1/Arvo-TLF/m/n/12 por-tu-gu�s, cha-ma-mos `evi-d�ncia'. `Evi-dence', em in-gl�s, cor-res-ponde ^^P[aos]
  []
 
 
-Overfull \hbox (4.63301pt too wide) in paragraph at lines 205--206
+Overfull \hbox (4.63301pt too wide) in paragraph at lines 204--205
 \T1/Arvo-TLF/m/n/12 fa-tos, si-nais ou ob-je-tos que fa-zem voc� acre-di-tar que algo � ver-dade^^Q (TURN-
  []
 
 [15]
-Overfull \hbox (0.73764pt too wide) in paragraph at lines 223--224
+Overfull \hbox (0.73764pt too wide) in paragraph at lines 222--223
 \T1/Arvo-TLF/m/n/12 de ma-neira au-to-m�-tica com Gras-sHop-per; o Vi-tor Oli-veira tal-vez possa aju-
  []
 
 [16] [17]
-Overfull \hbox (4.25658pt too wide) in paragraph at lines 243--244
+Overfull \hbox (4.25658pt too wide) in paragraph at lines 242--243
 []| \T1/Arvo-TLF/m/n/12 ii. Ren-di-mento e aces-si-bi-li-dade to-po-l�-gica: in-cen-ti-var e coi-bir usos
  []
 
 
-Overfull \hbox (6.0186pt too wide) in paragraph at lines 250--251
+Overfull \hbox (6.0186pt too wide) in paragraph at lines 249--250
 []\T1/Arvo-TLF/m/n/12 [Delineamento pre-sente na an-tiga ver-s�o]. Pretende-se de-sen-vol-ver esta
  []
 
 [18] [19]
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:285: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:284: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.285 \section{Some examples to get started}
+l.284 \section{Some examples to get started}
                                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:285: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:284: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.285 \section{Some examples to get started}
+l.284 \section{Some examples to get started}
                                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:285: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:284: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.285 \section{Some examples to get started}
+l.284 \section{Some examples to get started}
                                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:285: Missing number, treated as zero.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:284: Missing number, treated as zero.
 <to be read again> 
                    \c@Seção 
-l.285 \section{Some examples to get started}
+l.284 \section{Some examples to get started}
                                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 
-LaTeX Warning: Reference `fig:frog' on page 20 undefined on input line 293.
+LaTeX Warning: Reference `fig:frog' on page 20 undefined on input line 292.
 
 
-Overfull \hbox (6.30684pt too wide) in paragraph at lines 293--294
+Overfull \hbox (6.30684pt too wide) in paragraph at lines 292--293
 \T1/Arvo-TLF/m/n/12 First you have to upload the image file from your com-pu-ter using the upload
  []
 
 
-LaTeX Warning: File `Images/frog.jpg' not found on input line 299.
+LaTeX Warning: File `Images/frog.jpg' not found on input line 298.
 
 
-/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:299: Package pdftex.def Error: File `Images/frog.jpg' not found: using draft setting.
+/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex:298: Package pdftex.def Error: File `Images/frog.jpg' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.299 ...ics[width=0.3\textwidth]{Images/frog.jpg}
+l.298 ...ics[width=0.3\textwidth]{Images/frog.jpg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 299.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 298.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
-LaTeX Warning: Reference `tab:widgets' on page 20 undefined on input line 305.
+LaTeX Warning: Reference `tab:widgets' on page 20 undefined on input line 304.
 
 [20]
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 339.
+(Font)              scaled to size 8.0pt on input line 338.
 LaTeX Font Info:    Font shape `T1/Arvo-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 339.
+(Font)              scaled to size 6.0pt on input line 338.
  [21]
-Overfull \hbox (2.94014pt too wide) in paragraph at lines 351--351
+Overfull \hbox (2.94014pt too wide) in paragraph at lines 350--350
 [][]\T1/Arvo-TLF/b/n/14.4 How to change the do-cu-ment lan-guage and spell check set-
  []
 
 
-LaTeX Warning: Citation `greenwade93' on page 22 undefined on input line 361.
+LaTeX Warning: Citation `greenwade93' on page 22 undefined on input line 360.
 
 No file Projeto_de_Pesquisa.bbl.
 [22] (./Projeto_de_Pesquisa.aux)
