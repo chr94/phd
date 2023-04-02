@@ -6,8 +6,8 @@
   (generated)
   "Projeto_de_Pesquisa.bbl"
   "Projeto_de_Pesquisa.blg"
-["pdflatex"] 1680395455 "/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" "Projeto_de_Pesquisa.pdf" "Projeto_de_Pesquisa" 1680395455
-  "/Users/Pancratii/Documents/GitHub/phd/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" 1680395452 61618 02c83fc3e8ff280dd775b8d07f13c750 ""
+["pdflatex"] 1680468581 "/Users/Pancratii/Documents/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" "Projeto_de_Pesquisa.pdf" "Projeto_de_Pesquisa" 1680468581
+  "/Users/Pancratii/Documents/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" 1680468578 69979 2849d2a4526f6b669e116d7a5a4008f2 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_fibvii.enc" 1608588644 2823 5be281d0369073692d2c974c46dfb356 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_jtfq37.enc" 1608588644 3129 c838dd10c17fd261343a7e8a2a5962be ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_od575u.enc" 1608588644 2827 c5d3938c45dbdc7735eb17353f64a73f ""
@@ -26,7 +26,6 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/arvo/Arvo-tlf-t1.tfm" 1608588644 2088 9b2338d4b01dac0ee21375d8ac4b8a76 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/arvo/Arvo-tlf-ts1--base.tfm" 1608588644 1344 7cb901f9e1f86b02ff80c8f31422e8db ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/arvo/Arvo-tlf-ts1.tfm" 1608588644 1356 83daa26fa5aaf1c8316a6eab5ec60c9a ""
-  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cbfonts/grmn1200.tfm" 1213382506 2848 b1a6a10714c1e712320f7ebdeeab1248 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -47,7 +46,6 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
-  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb" 1213382506 82406 d18c276c53ecf0006854fdd0a702cfc0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb" 1215737283 167085 68de377d2744a68a88fa40a1f610615a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/public/arvo/Arvo-Bold-tlf-t1.vf" 1608588644 1312 c609c75e7cf57c3b41f2b32fa8e9bb79 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/public/arvo/Arvo-BoldItalic-tlf-t1.vf" 1608588644 1316 ca8254bfadc847266062de1d223a8a4f ""
@@ -142,10 +140,11 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1678999146 2826444 aacb20afd21b9ce1cdfbe962996ce196 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "Images/frog.jpg" 0 -1 0 ""
-  "Projeto_de_Pesquisa.aux" 1680395455 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Images/popolo.jpeg" 0 -1 0 ""
+  "Projeto_de_Pesquisa.aux" 1680468581 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "Projeto_de_Pesquisa.bbl" 0 -1 0 "bibtex Projeto_de_Pesquisa"
   "Projeto_de_Pesquisa.out" 0 -1 0 "pdflatex"
-  "Projeto_de_Pesquisa.tex" 1680395452 61618 02c83fc3e8ff280dd775b8d07f13c750 ""
+  "Projeto_de_Pesquisa.tex" 1680468578 69979 2849d2a4526f6b669e116d7a5a4008f2 ""
   (generated)
   "Projeto_de_Pesquisa.aux"
   "Projeto_de_Pesquisa.log"
