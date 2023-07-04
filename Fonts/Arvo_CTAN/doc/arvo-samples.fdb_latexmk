@@ -1,0 +1,17 @@
+# Fdb version 3
+["pdflatex"] 1681595258 "/Users/Pancratii/Documents/GitHub/phd/Fonts/Arvo_CTAN/doc/arvo-samples.tex" "arvo-samples.pdf" "arvo-samples" 1681595258
+  "/Users/Pancratii/Documents/GitHub/phd/Fonts/Arvo_CTAN/doc/arvo-samples.tex" 1679078903 620 7f017b2e2c7ad63364084d03d3632208 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls" 1636758526 20144 8a7de377ae7a11ee924a7499611f5a9d ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty" 1622581934 4946 461cc78f6f26901410d9f1d725079cc6 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo" 1636758526 8448 96f18c76bf608a36ee6fbf021ac1dd32 ""
+  "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
+  "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1678999146 2826444 aacb20afd21b9ce1cdfbe962996ce196 ""
+  "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
+  "arvo-samples.aux" 1681595258 32 3985256e7290058c681f74d7a3565a19 ""
+  "arvo-samples.tex" 1679078903 620 7f017b2e2c7ad63364084d03d3632208 ""
+  "arvo.sty" 0 -1 0 ""
+  (generated)
+  "arvo-samples.log"
+  "arvo-samples.pdf"

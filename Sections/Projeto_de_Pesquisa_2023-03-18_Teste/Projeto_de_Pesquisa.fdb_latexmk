@@ -1,13 +1,6 @@
 # Fdb version 3
-["bibtex Projeto_de_Pesquisa"] 0 "Projeto_de_Pesquisa.aux" "Projeto_de_Pesquisa.bbl" "Projeto_de_Pesquisa" 0
-  "/usr/local/texlive/2022/texmf-dist/bibtex/bib/gloss/sample.bib" 1136766823 2721 b88105703bd616b4f9867992219afb8a ""
-  "/usr/local/texlive/2022/texmf-dist/bibtex/bst/base/alpha.bst" 1292289607 23907 a5f93555796fb564b924339521f10a7c ""
-  "Projeto_de_Pesquisa.aux" 0 -1 0 "pdflatex"
-  (generated)
-  "Projeto_de_Pesquisa.bbl"
-  "Projeto_de_Pesquisa.blg"
-["pdflatex"] 1680542404 "/Users/Pancratii/Documents/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" "Projeto_de_Pesquisa.pdf" "Projeto_de_Pesquisa" 1680542404
-  "/Users/Pancratii/Documents/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" 1680542401 78678 e63b2174eeb11ac685f786ace997c982 ""
+["pdflatex"] 1681595142 "/Users/Pancratii/Documents/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" "Projeto_de_Pesquisa.pdf" "Projeto_de_Pesquisa" 1681595142
+  "/Users/Pancratii/Documents/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Projeto_de_Pesquisa.tex" 1681593842 79579 db388d8341573afc5e8e4baf99c0ecb4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_fibvii.enc" 1608588644 2823 5be281d0369073692d2c974c46dfb356 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_jtfq37.enc" 1608588644 3129 c838dd10c17fd261343a7e8a2a5962be ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/arvo/a_od575u.enc" 1608588644 2827 c5d3938c45dbdc7735eb17353f64a73f ""
@@ -142,12 +135,11 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1678999146 2826444 aacb20afd21b9ce1cdfbe962996ce196 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Images/frog.jpg" 0 -1 0 ""
+  "Pictures/nolli_popolo.png" 1681532425 8253748 5ba24145e9ef01347380f05afc710b7f ""
   "Pictures/popolo.jpeg" 1680468142 213221 5dc862f1a3f40b4474ecebb67c6f0e96 ""
-  "Projeto_de_Pesquisa.aux" 1680542404 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Projeto_de_Pesquisa.bbl" 0 -1 0 "bibtex Projeto_de_Pesquisa"
+  "Projeto_de_Pesquisa.aux" 1681595142 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "Projeto_de_Pesquisa.out" 0 -1 0 "pdflatex"
-  "Projeto_de_Pesquisa.tex" 1680542401 78678 e63b2174eeb11ac685f786ace997c982 ""
+  "Projeto_de_Pesquisa.tex" 1681593842 79579 db388d8341573afc5e8e4baf99c0ecb4 ""
   (generated)
   "Projeto_de_Pesquisa.aux"
   "Projeto_de_Pesquisa.log"
