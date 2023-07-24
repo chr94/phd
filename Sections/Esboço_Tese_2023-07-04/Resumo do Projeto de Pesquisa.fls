@@ -704,6 +704,7 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/Resumo do Projeto de Pesquisa.toc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti8.tfm
 INPUT /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/Resumo do Projeto de Pesquisa.aux
 INPUT /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/Resumo do Projeto de Pesquisa.out
 INPUT /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/Resumo do Projeto de Pesquisa.out
@@ -716,3 +717,4 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb

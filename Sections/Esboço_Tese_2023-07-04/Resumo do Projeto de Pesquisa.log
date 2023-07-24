@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  24 JUL 2023 02:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  24 JUL 2023 17:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -492,7 +492,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 l.33 
       [1
 
-] [2] [3] [4] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/Resumo do Projeto de Pesquisa.aux)
+] [2] [3] [4] [5] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/Resumo do Projeto de Pesquisa.aux)
 
 Package rerunfilecheck Warning: File `"Resumo do Projeto de Pesquisa".out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
@@ -503,18 +503,18 @@ Package rerunfilecheck Info: Checksums for `"Resumo do Projeto de Pesquisa".out'
 (rerunfilecheck)             After:  6AEE9147ED0FB11AD06918869E2068AD;367.
  ) 
 Here is how much of TeX's memory you used:
- 21035 strings out of 478268
- 399960 string characters out of 5846347
- 678103 words of memory out of 5000000
- 38932 multiletter control sequences out of 15000+600000
- 473554 words of font info for 42 fonts, out of 8000000 for 9000
+ 21040 strings out of 478268
+ 400012 string characters out of 5846347
+ 681104 words of memory out of 5000000
+ 38934 multiletter control sequences out of 15000+600000
+ 473906 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,8n,89p,1828b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/Resumo do Projeto de Pesquisa.pdf" (7 pages, 126589 bytes).
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/Resumo do Projeto de Pesquisa.pdf" (8 pages, 143760 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
+ 101 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
