@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  19 SEP 2023 11:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  20 SEP 2023 21:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -343,4 +343,176 @@ Package color Info: Driver file: pdftex.def on input line 149.
 Package hyperref Info: Link coloring ON on input line 37.
  (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/template_Report.out) (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/template_Report.out)
 \@outlinefile=\write3
-\openout3 = `template_Re
+\openout3 = `template_Report.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 398.3386pt, 142.26378pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.3386pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=69.99379pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 39.
+[1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/template_Report.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+
+Overfull \hbox (0.3844pt too wide) in paragraph at lines 19--19
+ [][] [][][]\OT1/cmr/m/n/10 Estruturas na-tu-rais: cu-me-a-das, tal-ve-gues, li-nhas de en-costa (ou meia pend^encia)[][] [][]  
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `template_Report.toc'.
+
+ [2
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.43 \end{abstract}
+                    [1]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.57 
+      [2
+
+] [3] [4] [5] [6] [7] [8{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [9] [10] [11
+
+]
+Cap\'{\i }tulo 1.
+[12
+
+] [13]
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg, id=275, 1805.74625pt x 903.375pt>
+File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg Graphic file (type jpg)
+<use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>
+Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg  used on input line 251.
+(pdftex.def)             Requested size: 398.3386pt x 199.2807pt.
+ [14 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>]
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png, id=283, 3387.65625pt x 1926.19624pt>
+File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png Graphic file (type png)
+<use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>
+Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png  used on input line 261.
+(pdftex.def)             Requested size: 398.3386pt x 226.48975pt.
+ [15 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>] [16] [17]
+Cap\'{\i }tulo 2.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 302.
+
+[18
+
+]
+Overfull \hbox (5.06934pt too wide) in paragraph at lines 332--333
+\OT1/cmr/m/n/10 tri-zes/instru^^Xc~oes de de-se-nho/parcelamento ur-bano (\OT1/cmr/m/it/10 ur-ban de-sign gui-de-li-nes, gui-des/manuals\OT1/cmr/m/n/10 ),
+ []
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 386.
+
+[19] [20] [21]
+Cap\'{\i }tulo 3.
+[22
+
+]
+Cap\'{\i }tulo 4.
+[23
+
+]
+Cap\'{\i }tulo 5.
+[24
+
+] [25
+
+]
+Cap\'{\i }tulo 6.
+[26
+
+]
+Cap\'{\i }tulo 7.
+[27
+
+] [28
+
+]
+Cap\'{\i }tulo 8.
+[29
+
+]
+Cap\'{\i }tulo 9.
+[30
+
+]
+Cap\'{\i }tulo 10.
+[31
+
+] [32
+
+]
+Overfull \hbox (20.95274pt too wide) in paragraph at lines 464--464
+|\OT1/cmr/bx/n/14.4 Descri^^Xc~ao dos pro-ce-di-men-tos efe-tu-a-dos, al-go-rit-mos e c^^Sodigos| 
+ []
+
+[33
+
+] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/template_Report.aux)
+Package rerunfilecheck Info: File `template_Report.out' has not changed.
+(rerunfilecheck)             Checksum: 4FF587C14C237C42B64C8E66083AB014;6212.
+ ) 
+Here is how much of TeX's memory you used:
+ 12512 strings out of 476025
+ 211265 string characters out of 5790018
+ 1866388 words of memory out of 5000000
+ 32692 multiletter control sequences out of 15000+600000
+ 520624 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,8n,77p,3045b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-07-04/template_Report.pdf (35 pages, 8258603 bytes).
+PDF statistics:
+ 477 PDF objects out of 1000 (max. 8388607)
+ 406 compressed objects within 5 object streams
+ 107 named destinations out of 1000 (max. 500000)
+ 275 words of extra memory for PDF output out of 10000 (max. 10000000)
+
