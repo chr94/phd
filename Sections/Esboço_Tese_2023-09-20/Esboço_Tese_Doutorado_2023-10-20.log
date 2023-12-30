@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  28 DEC 2023 18:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  29 DEC 2023 21:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -470,7 +470,6 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 19.
- (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.out) (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.out)
 \@outlinefile=\write4
 \openout4 = `Esboço_Tese_Doutorado_2023-10-20.out'.
 
@@ -484,44 +483,36 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
-
-Overfull \hbox (20.09451pt too wide) in paragraph at lines 23--23
- [][] [][][]\OT1/cmr/m/n/12 Projeto hi-pot^^Setico so-bre \OT1/cmr/m/it/12 ta-bula rasa \OT1/cmr/m/n/12 (\OT1/cmr/m/it/12 land re-ad-just-ment\OT1/cmr/m/n/12 /Disserta^^Xc~ao)[][] [][]  
- []
-
-[3]
-Overfull \hbox (11.30287pt too wide) in paragraph at lines 24--24
- [][] [][][]\OT1/cmr/m/n/12 Projeto hi-pot^^Setico so-bre pr^^Se-exist^encias (Di-re-tri-zes Vi^^Sarias/PIBIC)[][] [][]  
- []
-
-)
+]
+No file Esboço_Tese_Doutorado_2023-10-20.toc.
 \tf@toc=\write5
 \openout5 = `Esboço_Tese_Doutorado_2023-10-20.toc'.
 
- [4] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.lof)
+[3] [4
+
+]
+No file Esboço_Tese_Doutorado_2023-10-20.lof.
 \tf@lof=\write6
 \openout6 = `Esboço_Tese_Doutorado_2023-10-20.lof'.
 
- [5
+[5] [6
 
-] [6
-
-] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.lot)
+]
+No file Esboço_Tese_Doutorado_2023-10-20.lot.
 \tf@lot=\write7
 \openout7 = `Esboço_Tese_Doutorado_2023-10-20.lot'.
 
- [7] [8
+[7] [8
 
 ] [1
 
 ] [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 52.
 
@@ -531,8 +522,12 @@ Overfull \hbox (3.52863pt too wide) in paragraph at lines 55--56
 
 [3
 
-] [4] [5] [6]
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png, id=268, 963.6pt x 542.025pt>
+] [4] [5]
+
+LaTeX Warning: Reference `fig:comparativo_tracados' on page 6 undefined on input line 87.
+
+[6]
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png, id=87, 963.6pt x 542.025pt>
 File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png Graphic file (type png)
 <use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png>
 Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png  used on input line 91.
@@ -582,174 +577,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--292
 [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40]
 Underfull \vbox (badness 1342) has occurred while \output is active []
 
- [41] [42] [43] [44]
+ [41] [42] [43] [44] [45] [46] [47] [48]
 
-/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.tex:406: LaTeX Error: Unicode character ≠ (U+2260)
+/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.tex:443: LaTeX Error: Unicode character ≠ (U+2260)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.406 ...a e ≠ Square. Diferenças conceituais.}
+l.443 ...a e ≠ Square. Diferenças conceituais.}
                                                    Ao longo de todo o texto....
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[45] [46] [47] [48] [49]
-/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.tex:473: Misplaced alignment tab character &.
-l.473 ...s, such as “natural,” “formal,” &
-                                                  c., used in discussing it ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[50] [51] [52] [53] [54] [55] [56]
-Underfull \vbox (badness 7273) has occurred while \output is active []
-
- [57] [58] [59]
-/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.tex:569: Misplaced alignment tab character &.
-l.569 ...ublic servants, small shops and stores, &
-                                                  c.'' (p. 174) – \textbf{...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[60] [61]
-Underfull \vbox (badness 7273) has occurred while \output is active []
-
- [62] [63] [64] [65]
-
-/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.tex:624: LaTeX Error: Unicode character ≠ (U+2260)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.624 ...a e ≠ Square. Diferenças conceituais.}
-                                                  
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[66] [67] [68] [69] [70] [71] [72] [73] [74] [75]
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg, id=729, 1805.74625pt x 903.375pt>
-File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg Graphic file (type jpg)
-<use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>
-Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg  used on input line 756.
-(pdftex.def)             Requested size: 390.0pt x 195.10403pt.
- [76 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>]
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png, id=734, 3387.65625pt x 1926.19624pt>
-File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png Graphic file (type png)
-<use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>
-Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png  used on input line 766.
-(pdftex.def)             Requested size: 390.0pt x 221.72835pt.
-
-Underfull \vbox (badness 5417) has occurred while \output is active []
-
- [77 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>] [78]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [79]
-Overfull \hbox (7.48985pt too wide) in paragraph at lines 793--794
-\OT1/cmr/m/n/12 ur-ba-nos mor-fo-lo-gi-ca-mente ade-qua-dos ao con-texto'. Mais que isso, tais tra^^Xcados
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [80] [81]
-Overfull \hbox (3.7297pt too wide) in paragraph at lines 817--817
-[]\OT1/cmr/bx/n/17.28 Morfoadequabilidade: uma nova de-fini^^Xc~ao 
- []
-
-
-Underfull \vbox (badness 3333) has occurred while \output is active []
-
- [82] [83] [84
-
-]
-Cap\'{\i }tulo 2.
-[85] [86]
-Cap\'{\i }tulo 3.
-
-Overfull \hbox (4.54323pt too wide) in paragraph at lines 837--839
-\OT1/cmr/m/n/12 [09OUT2023 14:40 SCADA] Na busca por uma solu^^Xc~ao, nem mesmo Waldheim
- []
-
-[87
-
-] [88
-
-] [89] [90]
-Cap\'{\i }tulo 4.
-[91
-
-] [92
-
-]
-Cap\'{\i }tulo 5.
-
-Overfull \hbox (5.40141pt too wide) in paragraph at lines 846--846
-[]\OT1/cmr/bx/n/17.28 Projeto hi-pot^^Setico so-bre \OT1/cmr/bx/it/17.28 ta-bula rasa \OT1/cmr/bx/n/17.28 (\OT1/cmr/bx/it/17.28 land
- []
-
-
-Overfull \hbox (4.05775pt too wide) in paragraph at lines 848--848
-[]\OT1/cmr/bx/n/17.28 Projeto hi-pot^^Setico so-bre par-ce-la-mento ru-
- []
-
-[93] [94
-
-]
-Cap\'{\i }tulo 6.
-[95] [96
-
-] [97] [98]
-Cap\'{\i }tulo 7.
-[99
-
-] [100
-
-]
-Cap\'{\i }tulo 8.
-[101] [102
-
-]
-Cap\'{\i }tulo 9.
-[103] [104
-
-] [105] [106] [107
-
-] [108
-
-]
-No file Esboço_Tese_Doutorado_2023-10-20.bbl.
-[109] [110
-
-] [111] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.aux)
-Package rerunfilecheck Info: File `Esboço_Tese_Doutorado_2023-10-20.out' has not changed.
-(rerunfilecheck)             Checksum: 89A2FCE2C9678D11AB7F09DE219A3656;6656.
- ) 
-Here is how much of TeX's memory you used:
- 21750 strings out of 476025
- 415402 string characters out of 5790018
- 1865388 words of memory out of 5000000
- 41593 multiletter control sequences out of 15000+600000
- 520161 words of font info for 57 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 83i,10n,80p,2993b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.pdf (119 pages, 9437657 bytes).
-PDF statistics:
- 1018 PDF objects out of 1200 (max. 8388607)
- 860 compressed objects within 9 object streams
- 264 named destinations out of 1000 (max. 500000)
- 292 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+[49] [50] [51]
+Underfull \vbox (badnes
