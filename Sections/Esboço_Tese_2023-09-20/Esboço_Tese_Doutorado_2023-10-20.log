@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  29 DEC 2023 21:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  30 DEC 2023 18:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -470,6 +470,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 19.
+ (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.out) (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.out)
 \@outlinefile=\write4
 \openout4 = `Esboço_Tese_Doutorado_2023-10-20.out'.
 
@@ -483,36 +484,44 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-]
-No file Esboço_Tese_Doutorado_2023-10-20.toc.
+] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+
+Overfull \hbox (20.09451pt too wide) in paragraph at lines 23--23
+ [][] [][][]\OT1/cmr/m/n/12 Projeto hi-pot^^Setico so-bre \OT1/cmr/m/it/12 ta-bula rasa \OT1/cmr/m/n/12 (\OT1/cmr/m/it/12 land re-ad-just-ment\OT1/cmr/m/n/12 /Disserta^^Xc~ao)[][] [][]  
+ []
+
+[3]
+Overfull \hbox (11.30287pt too wide) in paragraph at lines 24--24
+ [][] [][][]\OT1/cmr/m/n/12 Projeto hi-pot^^Setico so-bre pr^^Se-exist^encias (Di-re-tri-zes Vi^^Sarias/PIBIC)[][] [][]  
+ []
+
+)
 \tf@toc=\write5
 \openout5 = `Esboço_Tese_Doutorado_2023-10-20.toc'.
 
-[3] [4
-
-]
-No file Esboço_Tese_Doutorado_2023-10-20.lof.
+ [4] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.lof)
 \tf@lof=\write6
 \openout6 = `Esboço_Tese_Doutorado_2023-10-20.lof'.
 
-[5] [6
+ [5
 
-]
-No file Esboço_Tese_Doutorado_2023-10-20.lot.
+] [6
+
+] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.lot)
 \tf@lot=\write7
 \openout7 = `Esboço_Tese_Doutorado_2023-10-20.lot'.
 
-[7] [8
+ [7] [8
 
 ] [1
 
 ] [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 52.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 52.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 52.
 
@@ -522,12 +531,8 @@ Overfull \hbox (3.52863pt too wide) in paragraph at lines 55--56
 
 [3
 
-] [4] [5]
-
-LaTeX Warning: Reference `fig:comparativo_tracados' on page 6 undefined on input line 87.
-
-[6]
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png, id=87, 963.6pt x 542.025pt>
+] [4] [5] [6]
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png, id=268, 963.6pt x 542.025pt>
 File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png Graphic file (type png)
 <use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png>
 Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png  used on input line 91.
@@ -575,21 +580,4 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--292
  []
 
 [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40]
-Underfull \vbox (badness 1342) has occurred while \output is active []
-
- [41] [42] [43] [44] [45] [46] [47] [48]
-
-/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2023-10-20.tex:443: LaTeX Error: Unicode character ≠ (U+2260)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.443 ...a e ≠ Square. Diferenças conceituais.}
-                                                   Ao longo de todo o texto....
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[49] [50] [51]
-Underfull \vbox (badnes
+Underfull
