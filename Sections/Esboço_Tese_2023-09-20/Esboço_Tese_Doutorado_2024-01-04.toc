@@ -5,18 +5,18 @@
 \contentsline {chapter}{\numberline {2}Maringá, um novo estudo de caso}{25}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Town Planning in Practice, Sir Raymond Unwin}{26}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Plano Vieira}{54}{section.2.2}%
-\contentsline {section}{\numberline {2.3}}{60}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Rendimento}{66}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Traçado urbano}{67}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Forma urbana}{67}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Elementos antrópicos do traçado: percursos, nós e polos}{67}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Estruturas naturais subjacentes ao traçado}{67}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}Relações entre traçado urbano, parcelamento rural e áreas não-antropizadas}{69}{subsection.2.5.4}%
-\contentsline {section}{\numberline {2.6}\textit {Modus faciendi} atual}{69}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Manuais, guias e leis de parcelamento do solo}{69}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}Entrevistas sobre princípios que norteiam o desenho dos traçados}{69}{subsection.2.6.2}%
-\contentsline {subsection}{\numberline {2.6.3}Rendimento econômico}{69}{subsection.2.6.3}%
-\contentsline {section}{\numberline {2.7}Morfoadequabilidade: uma nova definição}{69}{section.2.7}%
+\contentsline {section}{\numberline {2.3}}{61}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Rendimento}{67}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Traçado urbano}{68}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Forma urbana}{68}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Elementos antrópicos do traçado: percursos, nós e polos}{68}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Estruturas naturais subjacentes ao traçado}{68}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Relações entre traçado urbano, parcelamento rural e áreas não-antropizadas}{70}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}\textit {Modus faciendi} atual}{70}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Manuais, guias e leis de parcelamento do solo}{70}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Entrevistas sobre princípios que norteiam o desenho dos traçados}{70}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Rendimento econômico}{70}{subsection.2.6.3}%
+\contentsline {section}{\numberline {2.7}Morfoadequabilidade: uma nova definição}{70}{section.2.7}%
 \contentsline {chapter}{\numberline {3}A escolha de uma solução}{71}{chapter.3}%
 \contentsline {part}{II\hspace {1em}Desenvolvimento}{73}{part.2}%
 \contentsline {chapter}{\numberline {4}Protocolo}{75}{chapter.4}%
