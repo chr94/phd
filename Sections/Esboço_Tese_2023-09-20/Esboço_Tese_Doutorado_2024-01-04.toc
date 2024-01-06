@@ -5,31 +5,31 @@
 \contentsline {chapter}{\numberline {2}Maringá, um novo estudo de caso}{25}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Town Planning in Practice, Sir Raymond Unwin}{26}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Plano Vieira}{54}{section.2.2}%
-\contentsline {section}{\numberline {2.3}}{61}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Rendimento}{68}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Traçado urbano}{69}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Forma urbana}{69}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Elementos antrópicos do traçado: percursos, nós e polos}{69}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Estruturas naturais subjacentes ao traçado}{69}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}Relações entre traçado urbano, parcelamento rural e áreas não-antropizadas}{70}{subsection.2.5.4}%
-\contentsline {section}{\numberline {2.6}\textit {Modus faciendi} atual}{71}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Manuais, guias e leis de parcelamento do solo}{71}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}Entrevistas sobre princípios que norteiam o desenho dos traçados}{71}{subsection.2.6.2}%
-\contentsline {subsection}{\numberline {2.6.3}Rendimento econômico}{71}{subsection.2.6.3}%
-\contentsline {section}{\numberline {2.7}Morfoadequabilidade: uma nova definição}{71}{section.2.7}%
-\contentsline {chapter}{\numberline {3}A escolha de uma solução}{73}{chapter.3}%
-\contentsline {part}{II\hspace {1em}Desenvolvimento}{75}{part.2}%
-\contentsline {chapter}{\numberline {4}Protocolo}{77}{chapter.4}%
-\contentsline {chapter}{\numberline {5}O projeto de traçados hipotéticos}{79}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Projeto hipotético sobre \textit {tabula rasa} (\textit {land readjustment}/Dissertação)}{79}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Projeto hipotético sobre pré-existências (Diretrizes Viárias/PIBIC)}{79}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Projeto hipotético sobre parcelamento rural}{79}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Diretrizes projetuais}{81}{chapter.6}%
-\contentsline {part}{III\hspace {1em}Avaliação}{83}{part.3}%
-\contentsline {chapter}{\numberline {7}Comparativo com existente}{85}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Grupos focais e \textit {feedback}}{87}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Diretrizes projetuais}{89}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Comunicação do artefato aos \textit {stakeholders}}{89}{section.9.1}%
-\contentsline {chapter}{Conclusão}{93}{chapter*.15}%
-\contentsline {chapter}{Referências}{95}{chapter*.16}%
-\contentsline {chapter}{Anexos}{97}{chapter*.17}%
+\contentsline {section}{\numberline {2.3}}{63}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Rendimento}{69}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Traçado urbano}{71}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Forma urbana}{71}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Elementos antrópicos do traçado: percursos, nós e polos}{71}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Estruturas naturais subjacentes ao traçado}{71}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Relações entre traçado urbano, parcelamento rural e áreas não-antropizadas}{72}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}\textit {Modus faciendi} atual}{73}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Manuais, guias e leis de parcelamento do solo}{73}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Entrevistas sobre princípios que norteiam o desenho dos traçados}{73}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Rendimento econômico}{73}{subsection.2.6.3}%
+\contentsline {section}{\numberline {2.7}Morfoadequabilidade: uma nova definição}{73}{section.2.7}%
+\contentsline {chapter}{\numberline {3}A escolha de uma solução}{75}{chapter.3}%
+\contentsline {part}{II\hspace {1em}Desenvolvimento}{77}{part.2}%
+\contentsline {chapter}{\numberline {4}Protocolo}{79}{chapter.4}%
+\contentsline {chapter}{\numberline {5}O projeto de traçados hipotéticos}{81}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Projeto hipotético sobre \textit {tabula rasa} (\textit {land readjustment}/Dissertação)}{81}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Projeto hipotético sobre pré-existências (Diretrizes Viárias/PIBIC)}{81}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Projeto hipotético sobre parcelamento rural}{81}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Diretrizes projetuais}{83}{chapter.6}%
+\contentsline {part}{III\hspace {1em}Avaliação}{85}{part.3}%
+\contentsline {chapter}{\numberline {7}Comparativo com existente}{87}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Grupos focais e \textit {feedback}}{89}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Diretrizes projetuais}{91}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Comunicação do artefato aos \textit {stakeholders}}{91}{section.9.1}%
+\contentsline {chapter}{Conclusão}{95}{chapter*.16}%
+\contentsline {chapter}{Referências}{97}{chapter*.17}%
+\contentsline {chapter}{Anexos}{99}{chapter*.18}%
