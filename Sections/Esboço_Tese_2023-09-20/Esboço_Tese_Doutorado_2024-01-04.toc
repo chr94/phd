@@ -1,12 +1,12 @@
 \babel@toc {brazilian}{}\relax 
 \contentsline {chapter}{Introdução}{3}{chapter*.5}%
 \contentsline {part}{I\hspace {1em}Consciência}{17}{part.1}%
-\contentsline {chapter}{\numberline {1}O traçado da cidade}{19}{chapter.1}%
+\contentsline {chapter}{\numberline {1}Traçado, cidade, território}{19}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Maringá, um novo estudo de caso}{25}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Town Planning in Practice, Sir Raymond Unwin}{26}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Plano Vieira}{54}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Parâmetros}{68}{section.2.3}%
-\contentsline {section}{\numberline {2.4}}{75}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Conteúdo reprovado}{75}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Rendimento}{81}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Traçado urbano}{82}{section.2.6}%
 \contentsline {subsection}{\numberline {2.6.1}Forma urbana}{82}{subsection.2.6.1}%
@@ -20,15 +20,22 @@
 \contentsline {section}{\numberline {2.8}Morfoadequabilidade: uma nova definição}{84}{section.2.8}%
 \contentsline {chapter}{\numberline {3}A escolha de uma solução}{85}{chapter.3}%
 \contentsline {part}{II\hspace {1em}Desenvolvimento}{87}{part.2}%
-\contentsline {chapter}{\numberline {4}Protocolo}{89}{chapter.4}%
-\contentsline {chapter}{\numberline {5}O projeto de traçados hipotéticos}{91}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Projeto hipotético sobre \textit {tabula rasa} (\textit {land readjustment}/Dissertação)}{91}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Projeto hipotético sobre pré-existências (Diretrizes Viárias/PIBIC)}{91}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Projeto hipotético sobre parcelamento rural}{91}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Diretrizes projetuais}{93}{chapter.6}%
-\contentsline {part}{III\hspace {1em}Avaliação}{95}{part.3}%
-\contentsline {chapter}{\numberline {7}Comparativo com existente}{97}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Grupos focais e \textit {feedback}}{99}{chapter.8}%
+\contentsline {chapter}{\numberline {4}Traçados hipotéticos}{89}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Protocolo}{89}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Amostra 1 – \textit {Tabula rasa}}{89}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Amostra 2 – Pré-existências antrópicas}{89}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Amostra 3 – Parcelamento rural}{89}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Diretrizes preliminares}{89}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Protocolo}{91}{chapter.5}%
+\contentsline {chapter}{\numberline {6}O projeto de traçados hipotéticos}{93}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Projeto hipotético sobre \textit {tabula rasa} (\textit {land readjustment}/Dissertação)}{93}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Projeto hipotético sobre pré-existências (Diretrizes Viárias/PIBIC)}{93}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Projeto hipotético sobre parcelamento rural}{93}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Diretrizes projetuais}{95}{chapter.7}%
+\contentsline {part}{III\hspace {1em}Avaliação}{97}{part.3}%
+\contentsline {chapter}{\numberline {8}Avaliação}{99}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Comparativo com existente}{99}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Grupo focal e \textit {feedback}}{99}{section.8.2}%
 \contentsline {chapter}{\numberline {9}Diretrizes projetuais}{101}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Comunicação do artefato aos \textit {stakeholders}}{101}{section.9.1}%
 \contentsline {chapter}{Conclusão}{105}{chapter*.25}%
