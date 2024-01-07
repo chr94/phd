@@ -1,6 +1,6 @@
 # Fdb version 4
-["bibtex /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04"] 1704616859 "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.aux" "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.bbl" "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04" 1704616865 0
-  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.aux" 1704616864 7568 1c4a5b11437ba816f049a201103ec688 "pdflatex"
+["bibtex /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04"] 1704621744 "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.aux" "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.bbl" "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04" 1704621750 0
+  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.aux" 1704621749 7570 6528210ee257068f9c806aab989c55cc "pdflatex"
   "/usr/local/texlive/2023/texmf-dist/bibtex/bib/abntex2/abntex2-options.bib" 1357081713 5396 4eb260dac60f150ae608d45252853090 ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/abntex2/abntex2-alf.bst" 1543183680 60064 0819ac8568f9a482510a46e3a8a6f605 ""
   "bibliografia.bib" 0 -1 0 ""
@@ -8,14 +8,14 @@
   "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.bbl"
   "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.blg"
   (rewritten before read)
-["pdflatex"] 1704616859 "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.tex" "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.pdf" "Esboço_Tese_Doutorado_2024-01-04" 1704616865 2
-  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.aux" 1704616864 7568 1c4a5b11437ba816f049a201103ec688 "pdflatex"
+["pdflatex"] 1704621744 "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.tex" "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.pdf" "Esboço_Tese_Doutorado_2024-01-04" 1704621750 2
+  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.aux" 1704621749 7570 6528210ee257068f9c806aab989c55cc "pdflatex"
   "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.bbl" 0 -1 0 "bibtex /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04"
-  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.lof" 1704616864 930 6691e39c14b44e7d5a278f07bc29816f "pdflatex"
-  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.lot" 1704616864 212 7219a0a8cd3a25b40cade34fa1d6ac0e "pdflatex"
-  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.out" 1704616864 7095 2842f095464c6618f2e86432a19aca45 "pdflatex"
-  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.tex" 1704616845 192332 a6b1446c8bad20c84e774d26e08368af ""
-  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.toc" 1704616864 3150 9601ba3dbaba8479bca93f5aa333195f "pdflatex"
+  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.lof" 1704621749 930 f83f52519ea7d325509e52ad0968e5d1 "pdflatex"
+  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.lot" 1704621749 212 7219a0a8cd3a25b40cade34fa1d6ac0e "pdflatex"
+  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.out" 1704621749 7095 fb1d8d7974f8fccd915e66d70d58fd3b "pdflatex"
+  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.tex" 1704621726 202466 8c61d2e138925d0739a1abe994715249 ""
+  "/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.toc" 1704621749 3152 8cbb0fe4a74a002704ab4491a6da48ff "pdflatex"
   "/Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png" 1695697580 1203676 5a8f773bc195319a35e9ab9d773c29cc ""
   "/Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png" 1681532425 8253748 5ba24145e9ef01347380f05afc710b7f ""
   "/Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg" 1680468142 213221 5dc862f1a3f40b4474ecebb67c6f0e96 ""
