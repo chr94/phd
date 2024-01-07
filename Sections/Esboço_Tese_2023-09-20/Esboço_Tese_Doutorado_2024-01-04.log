@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  6 JAN 2024 19:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  6 JAN 2024 21:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -492,12 +492,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
  [3]
-Overfull \hbox (20.09451pt too wide) in paragraph at lines 24--24
+Overfull \hbox (20.09451pt too wide) in paragraph at lines 25--25
  [][] [][][]\OT1/cmr/m/n/12 Projeto hi-pot^^Setico so-bre \OT1/cmr/m/it/12 ta-bula rasa \OT1/cmr/m/n/12 (\OT1/cmr/m/it/12 land re-ad-just-ment\OT1/cmr/m/n/12 /Disserta^^Xc~ao)[][] [][]  
  []
 
 
-Overfull \hbox (11.30287pt too wide) in paragraph at lines 25--25
+Overfull \hbox (11.30287pt too wide) in paragraph at lines 26--26
  [][] [][][]\OT1/cmr/m/n/12 Projeto hi-pot^^Setico so-bre pr^^Se-exist^encias (Di-re-tri-zes Vi^^Sarias/PIBIC)[][] [][]  
  []
 
@@ -532,7 +532,7 @@ Overfull \hbox (3.52863pt too wide) in paragraph at lines 55--56
 [3
 
 ] [4] [5] [6]
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png, id=273, 963.6pt x 542.025pt>
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png, id=278, 963.6pt x 542.025pt>
 File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png Graphic file (type png)
 <use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png>
 Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png  used on input line 91.
@@ -608,111 +608,109 @@ Overfull \hbox (7.43755pt too wide) in paragraph at lines 527--528
 []\OT1/cmr/m/n/12 J^^Sa quanto aos cen-tros se-cund^^Sarios, cinco s~ao ple-na-mente vis^^S^^Pveis no tra^^Xcado.
  []
 
-[64] [65] [66] [67] [68]
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg, id=761, 1805.74625pt x 903.375pt>
+[64] [65] [66] [67] [68] [69] [70]
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg, id=776, 1805.74625pt x 903.375pt>
 File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg Graphic file (type jpg)
 <use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>
-Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg  used on input line 589.
+Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg  used on input line 609.
 (pdftex.def)             Requested size: 390.0pt x 195.10403pt.
- [69 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>]
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png, id=766, 3387.65625pt x 1926.19624pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[71]
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png, id=784, 3387.65625pt x 1926.19624pt>
 File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png Graphic file (type png)
 <use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>
-Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png  used on input line 599.
+Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png  used on input line 619.
 (pdftex.def)             Requested size: 390.0pt x 221.72835pt.
+ [72 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>]
+Underfull \vbox (badness 1038) has occurred while \output is active []
 
-Underfull \vbox (badness 5417) has occurred while \output is active []
-
- [70 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>] [71] [72]
-Overfull \hbox (7.48985pt too wide) in paragraph at lines 626--627
+ [73 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>] [74]
+Overfull \hbox (7.48985pt too wide) in paragraph at lines 646--647
 \OT1/cmr/m/n/12 ur-ba-nos mor-fo-lo-gi-ca-mente ade-qua-dos ao con-texto'. Mais que isso, tais tra^^Xcados
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [73] [74]
-Overfull \hbox (3.7297pt too wide) in paragraph at lines 650--650
+[75] [76]
+Overfull \hbox (3.7297pt too wide) in paragraph at lines 670--670
 []\OT1/cmr/bx/n/17.28 Morfoadequabilidade: uma nova de-fini^^Xc~ao 
  []
 
-
-Underfull \vbox (badness 3333) has occurred while \output is active []
-
- [75] [76]
+[77] [78]
 Cap\'{\i }tulo 3.
 
-Overfull \hbox (4.54323pt too wide) in paragraph at lines 667--669
+Overfull \hbox (4.54323pt too wide) in paragraph at lines 687--689
 \OT1/cmr/m/n/12 [09OUT2023 14:40 SCADA] Na busca por uma solu^^Xc~ao, nem mesmo Waldheim
  []
 
-[77
+[79
 
-] [78
+] [80
 
-] [79] [80]
+] [81] [82]
 Cap\'{\i }tulo 4.
-[81
+[83
 
-] [82
+] [84
 
 ]
 Cap\'{\i }tulo 5.
 
-Overfull \hbox (5.40141pt too wide) in paragraph at lines 676--676
+Overfull \hbox (5.40141pt too wide) in paragraph at lines 696--696
 []\OT1/cmr/bx/n/17.28 Projeto hi-pot^^Setico so-bre \OT1/cmr/bx/it/17.28 ta-bula rasa \OT1/cmr/bx/n/17.28 (\OT1/cmr/bx/it/17.28 land
  []
 
 
-Overfull \hbox (4.05775pt too wide) in paragraph at lines 678--678
+Overfull \hbox (4.05775pt too wide) in paragraph at lines 698--698
 []\OT1/cmr/bx/n/17.28 Projeto hi-pot^^Setico so-bre par-ce-la-mento ru-
  []
 
-[83] [84
+[85] [86
 
 ]
 Cap\'{\i }tulo 6.
-[85] [86
+[87] [88
 
-] [87] [88]
+] [89] [90]
 Cap\'{\i }tulo 7.
-[89
+[91
 
-] [90
+] [92
 
 ]
 Cap\'{\i }tulo 8.
-[91] [92
+[93] [94
 
 ]
 Cap\'{\i }tulo 9.
-[93] [94
+[95] [96
 
-] [95] [96] [97
+] [97] [98] [99
 
-] [98
+] [100
 
 ]
 No file Esboço_Tese_Doutorado_2024-01-04.bbl.
-[99] [100
+[101] [102
 
-] [101] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.aux)
+] [103] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.aux)
 Package rerunfilecheck Info: File `Esboço_Tese_Doutorado_2024-01-04.out' has not changed.
-(rerunfilecheck)             Checksum: CD23DF7C786F4B524A5069A2E0603D4F;6987.
+(rerunfilecheck)             Checksum: 2842F095464C6618F2E86432A19ACA45;7095.
  ) 
 Here is how much of TeX's memory you used:
- 21753 strings out of 476025
- 415460 string characters out of 5790018
+ 21759 strings out of 476025
+ 415524 string characters out of 5790018
  1865388 words of memory out of 5000000
- 41580 multiletter control sequences out of 15000+600000
+ 41581 multiletter control sequences out of 15000+600000
  520161 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,9n,80p,2993b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.pdf (109 pages, 9412169 bytes).
+Output written on /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-04.pdf (111 pages, 9417914 bytes).
 PDF statistics:
- 1041 PDF objects out of 1200 (max. 8388607)
- 893 compressed objects within 9 object streams
- 280 named destinations out of 1000 (max. 500000)
- 300 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1059 PDF objects out of 1200 (max. 8388607)
+ 908 compressed objects within 10 object streams
+ 285 named destinations out of 1000 (max. 500000)
+ 308 words of extra memory for PDF output out of 10000 (max. 10000000)
 
