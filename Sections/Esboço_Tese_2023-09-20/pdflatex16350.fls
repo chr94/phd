@@ -1,0 +1,6 @@
+PWD /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20
+INPUT /usr/local/texlive/2023/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-15.tex
+OUTPUT /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-15.log
