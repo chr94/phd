@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  16 JAN 2024 19:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  18 JAN 2024 18:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -82,6 +82,15 @@ Package: relsize 2013/03/29 ver 4.1
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks18
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip56
+\afterepigraphskip=\skip57
+\epigraphwidth=\skip58
+\epigraphrule=\skip59
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
@@ -238,7 +247,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip56
+\Hy@SectionHShift=\skip60
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -429,24 +438,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 ) (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-15.aux)
 \openout1 = `Esboço_Tese_Doutorado_2024-01-15.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count297
@@ -469,15 +478,15 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 19.
+Package hyperref Info: Link coloring ON on input line 20.
  (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-15.out) (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-15.out)
 \@outlinefile=\write4
 \openout4 = `Esboço_Tese_Doutorado_2024-01-15.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 34.
+(Font)              <14.4> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 34.
+(Font)              <7> on input line 35.
  [1
 
 
@@ -512,7 +521,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [1
 
 ] [2]
-Overfull \hbox (3.52863pt too wide) in paragraph at lines 53--54
+Overfull \hbox (3.52863pt too wide) in paragraph at lines 54--55
 []$\OML/cmm/m/it/12 <$\OT1/cmr/m/n/12 FIGURA COM LO-TE-A-MENTO DO TIPO `AR-RANH[]AO DE GATO'$\OML/cmm/m/it/12 >$ 
  []
 
@@ -520,161 +529,178 @@ Overfull \hbox (3.52863pt too wide) in paragraph at lines 53--54
 
 ] [4] [5] [6]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 94.
+(Font)              <5> on input line 95.
 
-Overfull \hbox (5.9676pt too wide) in paragraph at lines 93--96
+Overfull \hbox (5.9676pt too wide) in paragraph at lines 94--97
 \OT1/cmr/m/n/12 cep^^Xc~ao alheia ao con-texto no \OT1/cmr/m/it/12 mo-dus fa-ci-endi \OT1/cmr/m/n/12 atual s~ao ``ter-rit^^Sorios des-cont^^S^^Pnuos
  []
 
 [7]
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png, id=282, 963.6pt x 542.025pt>
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png, id=283, 963.6pt x 542.025pt>
 File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png Graphic file (type png)
 <use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png>
-Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png  used on input line 105.
+Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png  used on input line 106.
 (pdftex.def)             Requested size: 390.0pt x 219.37004pt.
  [8 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/comparativo_tracados.png>]
 Underfull \vbox (badness 7273) has occurred while \output is active []
 
  [9] [10] [11] [12{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \hbox (0.80983pt too wide) in paragraph at lines 153--154
+Overfull \hbox (0.80983pt too wide) in paragraph at lines 154--155
 []\OT1/cmr/m/n/12 Avaliar o con-junto de di-re-tri-zes por meio de com-pa-ra-tivo com le-gisla^^Xc~ao,
  []
 
-[13] [14] [15] [16
+[13] [14] [15
 
-] [17] [18]
+] [16]
 Cap\'{\i }tulo 1.
-[19
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 179.
 
-] [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21] [22] [23] [24
+ [17
+
+]
+Overfull \hbox (212.8273pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 18 \OT1/cmr/m/sl/12 CAP[]ITULO 1.  REVIS[]AO DE LITERATURA: PROJETO, TRA[]ADO, MORFOLOGIA E DESENHO URBANOS
+ []
+
+[18] [19]
+Overfull \hbox (212.8273pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 20 \OT1/cmr/m/sl/12 CAP[]ITULO 1.  REVIS[]AO DE LITERATURA: PROJETO, TRA[]ADO, MORFOLOGIA E DESENHO URBANOS
+ []
+
+[20] [21]
+Overfull \hbox (212.8273pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 22 \OT1/cmr/m/sl/12 CAP[]ITULO 1.  REVIS[]AO DE LITERATURA: PROJETO, TRA[]ADO, MORFOLOGIA E DESENHO URBANOS
+ []
+
+[22
 
 ]
 Cap\'{\i }tulo 2.
 
 Underfull \vbox (badness 6893) has occurred while \output is active []
 
- [25] [26] [27]
+ [23] [24] [25]
 Underfull \vbox (badness 1668) has occurred while \output is active []
 
- [28] [29] [30] [31]
-Overfull \hbox (6.16672pt too wide) in paragraph at lines 300--301
+ [26] [27] [28] [29]
+Overfull \hbox (6.16672pt too wide) in paragraph at lines 292--293
 []\OT1/cmr/m/n/12 Outrossim, fo-to-gra-fias dos pon-tos des-cri-tos, ma-pas geol^^Sogicos, e es-tat^^S^^Psticas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--302
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
 [][][]\OT1/cmr/m/it/10 Cf. \OT1/cmr/m/n/10 ``Sh-lomo An-gel - Ma-king Room for a Pla-net of Ci-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--302
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
 \OT1/cmr/m/n/10 ties'', pa-les-tra vei-cu-lada pela UN-Habitat Worldwide e dis-pon^^S^^Pvel em:
  []
 
-[32] [33] [34] [35] [36] [37]
+[30] [31] [32] [33] [34] [35]
 Underfull \vbox (badness 1337) has occurred while \output is active []
 
- [38]
+ [36]
 Underfull \vbox (badness 1342) has occurred while \output is active []
 
- [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51]
+ [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
 Underfull \vbox (badness 1342) has occurred while \output is active []
 
- [52] [53] [54] [55] [56]
-Overfull \hbox (0.77928pt too wide) in paragraph at lines 456--457
+ [50] [51] [52] [53] [54]
+Overfull \hbox (0.77928pt too wide) in paragraph at lines 448--449
 []\OT1/cmr/m/n/12 Podemos es-ta-be-le-cer uma rela^^Xc~ao en-tre o pro-cesso de ocupa^^Xc~ao
  []
 
-[57] [58] [59] [60] [61] [62] [63]
-Overfull \hbox (7.43755pt too wide) in paragraph at lines 523--524
+[55] [56] [57] [58] [59] [60] [61]
+Overfull \hbox (7.43755pt too wide) in paragraph at lines 515--516
 []\OT1/cmr/m/n/12 J^^Sa quanto aos cen-tros se-cund^^Sarios, cinco s~ao ple-na-mente vis^^S^^Pveis no tra^^Xcado.
  []
 
-[64] [65] [66] [67] [68] [69] [70]
-Overfull \hbox (3.32509pt too wide) in paragraph at lines 591--592
+[62] [63] [64] [65] [66] [67] [68]
+Overfull \hbox (3.32509pt too wide) in paragraph at lines 583--584
 []\OT1/cmr/m/n/12 Enquanto isso, pela `con-ti-nui-dade de per-cur-sos', po-de-mos iden-
  []
 
-[71] [72] [73] [74] [75] [76
+[69] [70] [71] [72] [73] [74
 
-] [77] [78]
+] [75] [76]
 Cap\'{\i }tulo 3.
-[79
+[77
 
-] [80
+] [78
 
-] [81] [82]
+] [79] [80]
 Cap\'{\i }tulo 4.
-[83
+[81
 
-] [84
+] [82
 
 ]
 Cap\'{\i }tulo 5.
-[85] [86
+[83] [84
 
-] [87] [88] [89
+] [85] [86] [87
 
-] [90
+] [88
 
 ]
 No file Esboço_Tese_Doutorado_2024-01-15.bbl.
-[91] [92
+[89] [90
 
 ]
 Underfull \vbox (badness 2521) has occurred while \output is active []
 
- [93] [94] [95]
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg, id=902, 1805.74625pt x 903.375pt>
+ [91] [92] [93]
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg, id=888, 1805.74625pt x 903.375pt>
 File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg Graphic file (type jpg)
 <use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>
-Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg  used on input line 704.
+Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg  used on input line 696.
 (pdftex.def)             Requested size: 390.0pt x 195.10403pt.
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png, id=903, 3387.65625pt x 1926.19624pt>
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png, id=889, 3387.65625pt x 1926.19624pt>
 File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png Graphic file (type png)
 <use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>
-Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png  used on input line 714.
+Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png  used on input line 706.
 (pdftex.def)             Requested size: 390.0pt x 221.72835pt.
- [96 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>] [97 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>]
+ [94 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>] [95 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>]
 Underfull \vbox (badness 1348) has occurred while \output is active []
 
- [98] [99]
-Overfull \hbox (7.48985pt too wide) in paragraph at lines 741--742
+ [96] [97]
+Overfull \hbox (7.48985pt too wide) in paragraph at lines 733--734
 \OT1/cmr/m/n/12 ur-ba-nos mor-fo-lo-gi-ca-mente ade-qua-dos ao con-texto'. Mais que isso, tais tra^^Xcados
  []
 
-[100]
+[98]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101]
-Overfull \hbox (3.7297pt too wide) in paragraph at lines 765--765
+ [99]
+Overfull \hbox (3.7297pt too wide) in paragraph at lines 757--757
 []\OT1/cmr/bx/n/17.28 Morfoadequabilidade: uma nova de-fini^^Xc~ao 
  []
 
-[102]
+[100]
 Cap\'{\i }tulo 6.
-[103
+[101
 
 ] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-15.aux)
 Package rerunfilecheck Info: File `Esboço_Tese_Doutorado_2024-01-15.out' has not changed.
-(rerunfilecheck)             Checksum: 1AA6E4EE79D02BF2912C4D01EA442AE4;6834.
+(rerunfilecheck)             Checksum: CBEB76E9FFEF6F4D0BD582FE4CB3621F;7062.
  ) 
 Here is how much of TeX's memory you used:
- 21774 strings out of 476025
- 415690 string characters out of 5790018
+ 21864 strings out of 476025
+ 417796 string characters out of 5790018
  1865388 words of memory out of 5000000
- 41585 multiletter control sequences out of 15000+600000
- 520161 words of font info for 57 fonts, out of 8000000 for 9000
+ 41674 multiletter control sequences out of 15000+600000
+ 521423 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,9n,80p,2993b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-15.pdf (111 pages, 9427633 bytes).
+Output written on /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-01-15.pdf (109 pages, 9426893 bytes).
 PDF statistics:
- 1079 PDF objects out of 1200 (max. 8388607)
- 928 compressed objects within 10 object streams
- 296 named destinations out of 1000 (max. 500000)
+ 1066 PDF objects out of 1200 (max. 8388607)
+ 917 compressed objects within 10 object streams
+ 289 named destinations out of 1000 (max. 500000)
  316 words of extra memory for PDF output out of 10000 (max. 10000000)
 
