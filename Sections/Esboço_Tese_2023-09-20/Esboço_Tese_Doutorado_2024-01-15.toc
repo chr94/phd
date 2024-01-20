@@ -2,9 +2,9 @@
 \contentsline {chapter}{Introdução}{3}{chapter*.5}%
 \contentsline {part}{I\hspace {1em}Consciência}{15}{part.1}%
 \contentsline {chapter}{\numberline {1}Revisão de literatura: projeto, traçado, morfologia e desenho urbanos}{17}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Maringá, um novo estudo de caso}{23}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Maringá, um estudo de caso}{23}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Town Planning in Practice, Sir Raymond Unwin}{24}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Plano Vieira}{52}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Plano Vieira}{51}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Parâmetros}{66}{section.2.3}%
 \contentsline {part}{II\hspace {1em}Desenvolvimento}{75}{part.2}%
 \contentsline {chapter}{\numberline {3}Traçados hipotéticos}{77}{chapter.3}%
