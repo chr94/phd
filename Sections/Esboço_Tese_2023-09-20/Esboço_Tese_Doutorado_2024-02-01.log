@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  6 FEB 2024 18:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  8 FEB 2024 14:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -559,128 +559,128 @@ Overfull \hbox (4.99pt too wide) in paragraph at lines 177--178
  []
 
 [18] [19]
-Overfull \hbox (3.48906pt too wide) in paragraph at lines 235--236
+Overfull \hbox (3.48906pt too wide) in paragraph at lines 236--237
 []\OT1/cmr/m/n/12 O lei-tor cer-ta-mente no-tar^^Sa a im-port^ancia que da-mos ^^Ras ci^encias
  []
 
-[20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
+[20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36
+
+]
 Cap\'{\i }tulo 2.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35
-
-] [36] [37] [38]
+ [37] [38] [39] [40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39] [40] [41] [42] [43]
-Overfull \hbox (7.43755pt too wide) in paragraph at lines 452--453
+ [41] [42] [43] [44] [45]
+Overfull \hbox (7.43755pt too wide) in paragraph at lines 481--482
 []\OT1/cmr/m/n/12 J^^Sa quanto aos cen-tros se-cund^^Sarios, cinco s~ao ple-na-mente vis^^S^^Pveis no tra^^Xcado.
  []
 
 
 Underfull \vbox (badness 4556) has occurred while \output is active []
 
- [44] [45] [46] [47] [48] [49] [50]
-Overfull \hbox (3.32509pt too wide) in paragraph at lines 520--521
+ [46] [47] [48] [49] [50] [51] [52]
+Overfull \hbox (3.32509pt too wide) in paragraph at lines 549--550
 []\OT1/cmr/m/n/12 Enquanto isso, pela `con-ti-nui-dade de per-cur-sos', po-de-mos iden-
  []
 
 
 Underfull \vbox (badness 1009) has occurred while \output is active []
 
- [51] [52]
+ [53] [54]
 Underfull \vbox (badness 6758) has occurred while \output is active []
 
- [53] [54] [55] [56
+ [55] [56] [57] [58
 
 ]
 Cap\'{\i }tulo 3.
-[57]
+[59]
 Overfull \hbox (12.22911pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 58 \OT1/cmr/m/sl/12 CAP[]ITULO 3.  TRA[]ADO URBANO: EXEMPLO E CONTRAEXEMPLO
+\OT1/cmr/m/n/12 60 \OT1/cmr/m/sl/12 CAP[]ITULO 3.  TRA[]ADO URBANO: EXEMPLO E CONTRAEXEMPLO
  []
 
-[58
+[60
 
-] [59] [60]
+] [61] [62]
 Cap\'{\i }tulo 4.
-[61
+[63
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62] [63] [64] [65] [66] [67] [68] [69] [70] [71
+ [64] [65] [66] [67] [68] [69] [70] [71] [72] [73
 
-] [72]
+] [74]
 Cap\'{\i }tulo 5.
-[73
+[75
 
-] [74
+] [76
 
 ]
 Cap\'{\i }tulo 6.
-[75] [76
+[77] [78
 
-] [77] [78] [79
+] [79] [80] [81
 
-] [80
+] [82
 
 ]
 No file Esboço_Tese_Doutorado_2024-02-01.bbl.
-[81] [82
+[83] [84
 
 ]
 Underfull \vbox (badness 2521) has occurred while \output is active []
 
- [83] [84] [85]
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg, id=713, 1805.74625pt x 903.375pt>
+ [85] [86] [87]
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg, id=721, 1805.74625pt x 903.375pt>
 File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg Graphic file (type jpg)
 <use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>
-Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg  used on input line 751.
+Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg  used on input line 780.
 (pdftex.def)             Requested size: 390.0pt x 195.10403pt.
-</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png, id=714, 3387.65625pt x 1926.19624pt>
+</Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png, id=722, 3387.65625pt x 1926.19624pt>
 File: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png Graphic file (type png)
 <use /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>
-Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png  used on input line 761.
+Package pdftex.def Info: /Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png  used on input line 790.
 (pdftex.def)             Requested size: 390.0pt x 221.72835pt.
- [86 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>] [87 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>]
+ [88 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/popolo.jpeg>] [89 </Users/Pancratii/GitHub/phd/Sections/Projeto_de_Pesquisa_2023-03-18_Teste/Pictures/nolli_popolo.png>]
 Underfull \vbox (badness 1348) has occurred while \output is active []
 
- [88] [89]
-Overfull \hbox (7.48985pt too wide) in paragraph at lines 788--789
+ [90] [91]
+Overfull \hbox (7.48985pt too wide) in paragraph at lines 817--818
 \OT1/cmr/m/n/12 ur-ba-nos mor-fo-lo-gi-ca-mente ade-qua-dos ao con-texto'. Mais que isso, tais tra^^Xcados
  []
 
-[90]
+[92]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [91]
-Overfull \hbox (3.7297pt too wide) in paragraph at lines 812--812
+ [93]
+Overfull \hbox (3.7297pt too wide) in paragraph at lines 841--841
 []\OT1/cmr/bx/n/17.28 Morfoadequabilidade: uma nova de-fini^^Xc~ao 
  []
 
-[92]
+[94]
 Cap\'{\i }tulo 7.
-[93
+[95
 
 ] (/Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-02-01.aux)
 Package rerunfilecheck Info: File `Esboço_Tese_Doutorado_2024-02-01.out' has not changed.
 (rerunfilecheck)             Checksum: A07CF1B7549D546B9C967A1C8CB95005;7458.
  ) 
 Here is how much of TeX's memory you used:
- 21786 strings out of 476025
- 416879 string characters out of 5790018
+ 21789 strings out of 476025
+ 416909 string characters out of 5790018
  1863388 words of memory out of 5000000
- 41678 multiletter control sequences out of 15000+600000
+ 41679 multiletter control sequences out of 15000+600000
  521423 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,9n,80p,2971b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-02-01.pdf (101 pages, 9374077 bytes).
+Output written on /Users/Pancratii/GitHub/phd/Sections/Esboço_Tese_2023-09-20/Esboço_Tese_Doutorado_2024-02-01.pdf (103 pages, 9377821 bytes).
 PDF statistics:
- 865 PDF objects out of 1000 (max. 8388607)
- 728 compressed objects within 8 object streams
- 207 named destinations out of 1000 (max. 500000)
+ 874 PDF objects out of 1000 (max. 8388607)
+ 735 compressed objects within 8 object streams
+ 209 named destinations out of 1000 (max. 500000)
  340 words of extra memory for PDF output out of 10000 (max. 10000000)
 
