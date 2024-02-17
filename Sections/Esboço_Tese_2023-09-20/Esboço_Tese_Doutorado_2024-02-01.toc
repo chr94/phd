@@ -2,12 +2,12 @@
 \contentsline {chapter}{Introdução}{3}{chapter*.5}%
 \contentsline {part}{I\hspace {1em}Consciência}{15}{part.1}%
 \contentsline {chapter}{\numberline {1}Revisão de literatura}{17}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Traçado urbano}{19}{section.1.1}%
+\contentsline {section}{\numberline {1.1}Traçado urbano}{18}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}O que é traçado urbano}{19}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Como projetar traçados urbanos}{24}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.2}Como projetar traçados urbanos}{23}{subsection.1.1.2}%
 \contentsline {subsection}{\numberline {1.1.3}Town Planning in Practice, Sir Raymond Unwin}{28}{subsection.1.1.3}%
 \contentsline {section}{\numberline {1.2}Maringá}{41}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Traçado urbano: exemplo e contraexemplo}{47}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.1}Traçado urbano: exemplo e contraexemplo}{48}{subsection.1.2.1}%
 \contentsline {chapter}{\numberline {2}O Ante-Projeto de Vieira}{49}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Leitura Morfológica}{49}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Parâmetros}{58}{section.2.2}%
