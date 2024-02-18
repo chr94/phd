@@ -7,7 +7,7 @@
 \contentsline {subsection}{\numberline {1.1.2}Como projetar traçados urbanos}{23}{subsection.1.1.2}%
 \contentsline {subsection}{\numberline {1.1.3}Town Planning in Practice, Sir Raymond Unwin}{28}{subsection.1.1.3}%
 \contentsline {section}{\numberline {1.2}Maringá}{41}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Traçado urbano: exemplo e contraexemplo}{48}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.1}Traçado urbano: exemplo e contraexemplo}{47}{subsection.1.2.1}%
 \contentsline {chapter}{\numberline {2}O Ante-Projeto de Vieira}{49}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Leitura Morfológica}{49}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Parâmetros}{58}{section.2.2}%
@@ -24,9 +24,9 @@
 \contentsline {section}{\numberline {4.2}Grupo focal e \textit {feedback}}{81}{section.4.2}%
 \contentsline {chapter}{\numberline {5}Diretrizes projetuais}{83}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Comunicação do artefato aos \textit {stakeholders}}{83}{section.5.1}%
-\contentsline {chapter}{Conclusão}{87}{chapter*.23}%
-\contentsline {chapter}{Referências}{89}{chapter*.24}%
-\contentsline {chapter}{Anexos}{91}{chapter*.25}%
+\contentsline {chapter}{Conclusão}{87}{chapter*.24}%
+\contentsline {chapter}{Referências}{89}{chapter*.25}%
+\contentsline {chapter}{Anexos}{91}{chapter*.26}%
 \contentsline {section}{\numberline {5.2}Conteúdo reprovado}{91}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Rendimento}{97}{section.5.3}%
 \contentsline {section}{\numberline {5.4}Traçado urbano}{98}{section.5.4}%
